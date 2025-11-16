@@ -1,0 +1,100 @@
+package model;
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.*;
+
+public class EmployeeManagementTest {
+
+    // Sample employees for testing
+    private FullTimeEmployee ftEmployee = new FullTimeEmployee(
+            "Alice Johnson", "Engineering", 101, 90000, true,
+            LocalDate.of(2019, 5, 20), LocalDateTime.now(), "alice.johnson@company.com",
+            "Lead Engineer", 6, "Premium Health", 28
+    );
+
+    private PartTimeEmployee ptEmployee = new PartTimeEmployee(
+            "Bob Smith", "Marketing", 102, 45000, true,
+            LocalDate.of(2021, 2, 10), LocalDateTime.now(), "bob.smith@company.com",
+            "Marketing Assistant", 2, 20, 25.5
+    );
+
+    private Contractor contractor = new Contractor(
+            "Charlie Brown", "IT", 103, 70000, true,
+            LocalDate.of(2022, 8, 15), LocalDateTime.now(), "charlie.brown@company.com",
+            "IT Consultant", 4, LocalDate.of(2025, 12, 31), "TechStaff Inc"
+    );
+
+    private FullTimeEmployee ftEmployee2 = new FullTimeEmployee(
+            "Diana Prince", "Legal", 104, 85000, true,
+            LocalDate.of(2018, 11, 5), LocalDateTime.now(), "diana.prince@company.com",
+            "Legal Advisor", 7, "Standard Health", 25
+    );
+
+    // Test sorting by employee ID
+    @Test
+    public void testSortByEmployeeID() {
+        List<Employee> employees = new ArrayList<>(Arrays.asList(ftEmployee2, ptEmployee, contractor, ftEmployee));
+        Collections.sort(employees); // sorts by employeeID (compareTo)
+        
+        assertEquals(101, employees.get(0).getEmployeeID());
+        assertEquals(102, employees.get(1).getEmployeeID());
+        assertEquals(103, employees.get(2).getEmployeeID());
+        assertEquals(104, employees.get(3).getEmployeeID());
+    }
+
+    // Test sorting by name alphabetically
+    @Test
+    public void testSortByName() {
+        List<Employee> employees = new ArrayList<>(Arrays.asList(ftEmployee2, ptEmployee, contractor, ftEmployee));
+        Collections.sort(employees, new EmployeeNameComparator());
+
+        assertEquals("Alice Johnson", employees.get(0).getName());
+        assertEquals("Bob Smith", employees.get(1).getName());
+        assertEquals("Charlie Brown", employees.get(2).getName());
+        assertEquals("Diana Prince", employees.get(3).getName());
+    }
+
+    // Test search by name
+    @Test
+    public void testSearchByName() {
+        List<Employee> employees = Arrays.asList(ftEmployee, ptEmployee, contractor, ftEmployee2);
+
+        Optional<Employee> result = employees.stream()
+                .filter(e -> e.getName().equals("Charlie Brown"))
+                .findFirst();
+
+        assertTrue(result.isPresent());
+        assertEquals("IT", result.get().getDepartment());
+    }
+
+    // Test search by department
+    @Test
+    public void testSearchByDepartment() {
+        List<Employee> employees = Arrays.asList(ftEmployee, ptEmployee, contractor, ftEmployee2);
+
+        List<Employee> engineeringEmployees = employees.stream()
+                .filter(e -> e.getDepartment().equals("Engineering"))
+                .toList();
+
+        assertEquals(1, engineeringEmployees.size());
+        assertEquals("Alice Johnson", engineeringEmployees.get(0).getName());
+    }
+
+    // Test search by employee type
+    @Test
+    public void testSearchByEmployeeType() {
+        List<Employee> employees = Arrays.asList(ftEmployee, ptEmployee, contractor, ftEmployee2);
+
+        List<Contractor> contractors = employees.stream()
+                .filter(e -> e instanceof Contractor)
+                .map(e -> (Contractor) e)
+                .toList();
+
+        assertEquals(1, contractors.size());
+        assertEquals("Charlie Brown", contractors.get(0).getName());
+    }
+}
