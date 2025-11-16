@@ -1,0 +1,11 @@
+name,department,employeeID,salary,isActive,hireDate,lastUpdated,email,jobTitle,yearsOfExperience,employeeType,benefitsPackage,annualLeaveDays,hoursPerWeek,hourlyRate,contractEndDate,agencyName
+John Smith,Engineering,1001,75000.50,true,2020-01-15,2024-11-16T10:30:00,john.smith@company.com,Senior Developer,4,FullTime,Premium Health,25,,,
+Maria Garcia,Marketing,1002,65000.00,true,2021-03-22,2024-11-16T09:15:00,maria.garcia@company.com,Marketing Manager,3,FullTime,Standard Health,20,,,
+David Lee,Sales,1003,55000.75,false,2019-06-10,2024-11-16T14:20:00,david.lee@company.com,Sales Associate,5,FullTime,Basic Health,15,,,
+Sarah Johnson,HR,1004,45000.00,true,2022-09-01,2024-11-16T11:45:00,sarah.johnson@company.com,HR Coordinator,2,PartTime,,,20,25.50,,
+   ,Finance,1005,80000.00,true,2018-11-20,2024-11-16T08:00:00,blank.name@company.com,Financial Analyst,6,FullTime,Premium Health,30,,,
+Michael Brown,IT,1006,70000.00,true,2023-02-14,2024-11-16T13:30:00,michael.brown@company.com,IT Support,1,Contractor,,,,,2025-12-31,TechStaff Inc
+Emily Davis,Operations,1007,60000.50,true,2020-07-05,2024-11-16T10:00:00,emily.davis@company.com,Operations Manager,4,FullTime,Standard Health,22,,,
+James Wilson,Design,1008,48000.00,true,2023-05-18,2024-11-16T15:45:00,james.wilson@company.com,Graphic Designer,1,PartTime,,,30,22.00,,
+Lisa Anderson,Engineering,1009,85000.00,true,2017-12-01,2024-11-16T09:30:00,lisa.anderson@company.com,Lead Engineer,7,FullTime,Premium Health,28,,,
+Robert Taylor,Legal,1010,72000.00,true,2022-04-10,2024-11-16T12:00:00,robert.taylor@company.com,Legal Advisor,2,Contractor,,,,,2026-03-31,LegalPros Agency
