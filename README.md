@@ -65,3 +65,7 @@ Checks that the date in which the employee was hired isn't in the future of the 
 
 ##### Serban Moldovan ( D00281364 ) - Personal Reflection
 I learnt that there inheritance is key in a database that reuses the same fields for different classes and at different levels of hierarchy such as the parent class Employee and the child class FullTimeEmployee. I also learnt that validation and error handling is key because when I didn't have them there were many errors and crashes which were very frustrating. CSV parsing is also key to reading the data from the csv file and being able to properly use it with different functions. 
+
+##### Md Nayem Molla  ( D00264235 ) - Personal Reflection
+Working on this Employee Management System helped me understand the power of object-oriented programming. Using inheritance with a parent Employee class and child classes like FullTimeEmployee, PartTimeEmployee, and Contractor allowed me to reuse code and handle different employee types efficiently.
+Working with CSV parsing taught me how to read and process external data, converting it into meaningful objects in Java. Adding JUnit tests for ordering and searching was a valuable experience, showing me how testing ensures program correctness and improves confidence in code quality. Seeing the coverage report highlighted which parts of my code were tested and areas for improvement.
