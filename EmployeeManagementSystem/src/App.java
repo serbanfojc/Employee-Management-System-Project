@@ -1,4 +1,5 @@
 import model.*;
+import model.EmployeeNameComparator;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -9,7 +10,7 @@ public class App
     {
         System.out.println("=== Employee Management System ===\n");
 
-        List<Employee> employees = EmployeeCSVLoader.loadEmployees("data/sample_10.csv");
+        List<Employee> employees = EmployeeCSVLoader.loadEmployees("EmployeeManagementSystem/data/sample_10.csv");
 
         System.out.println("\n--- Employees sorted by ID ---");
         Collections.sort(employees);
