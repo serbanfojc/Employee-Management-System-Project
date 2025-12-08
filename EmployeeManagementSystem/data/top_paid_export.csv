@@ -1,0 +1,11 @@
+name,department,employeeID,salary,isActive,hireDate,lastUpdated,email,jobTitle,yearsOfExperience
+Susan Hernandez,Sales,1358,94972.87,true,2025-11-03,2025-12-08T16:53:21,susan.hernandez@company.com,Engineer,2
+Andrew Lewis,Legal,1729,94970.04,true,2021-04-01,2025-12-08T16:53:21,andrew.lewis@company.com,Developer,8
+William Martinez,Engineering,1852,94966.83,true,2019-05-12,2025-12-08T16:53:21,william.martinez@company.com,Designer,0
+Donna Lewis,HR,1876,94807.44,false,2019-09-19,2025-12-08T16:53:21,donna.lewis@company.com,Specialist,2
+Richard Walker,Design,1390,94804.48,false,2022-09-09,2025-12-08T16:53:21,richard.walker@company.com,Coordinator,10
+Mary Torres,Design,1885,94789.44,true,2024-03-22,2025-12-08T16:53:21,mary.torres@company.com,Developer,10
+Kenneth Thomas,Design,1233,94575.78,true,2025-09-14,2025-12-08T16:53:21,kenneth.thomas@company.com,Manager,3
+Andrew Scott,Legal,1033,94472.47,true,2022-09-26,2025-12-08T16:53:21,andrew.scott@company.com,Director,8
+Linda Sanchez,Legal,1708,94372.55,false,2025-07-18,2025-12-08T16:53:21,linda.sanchez@company.com,Engineer,0
+Richard Brown,Operations,1265,94368.28,true,2019-09-22,2025-12-08T16:53:21,richard.brown@company.com,Specialist,1

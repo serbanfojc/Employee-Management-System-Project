@@ -1,0 +1,1001 @@
+name,department,employeeID,salary,isActive,hireDate,lastUpdated,email,jobTitle,yearsOfExperience,employeeType,benefitsPackage,annualLeaveDays,hoursPerWeek,hourlyRate,contractEndDate,agencyName
+Paul Thompson,Design,1001,68573.86,true,2020-04-08,2025-12-08T16:53:21,paul.thompson@company.com,Designer,10,PartTime,,,15,22.45,,
+Deborah Wright,Finance,1002,91094.12,true,2021-08-08,2025-12-08T16:53:21,deborah.wright@company.com,Designer,3,FullTime,Standard Health,18,,,
+Linda Lee,Finance,1003,75893.57,false,2024-02-23,2025-12-08T16:53:21,linda.lee@company.com,Designer,4,PartTime,,,29,28.36,,
+Michelle Williams,IT,1004,66546.57,true,2020-12-27,2025-12-08T16:53:21,michelle.williams@company.com,Manager,10,PartTime,,,23,29.7,,
+John Flores,Engineering,1005,58535.81,true,2020-02-23,2025-12-08T16:53:21,john.flores@company.com,Engineer,1,Contractor,,,,,2027-07-25,TechStaff Inc
+Kevin Jackson,Sales,1006,62339.85,false,2025-09-02,2025-12-08T16:53:21,kevin.jackson@company.com,Associate,2,PartTime,,,35,25.52,,
+Emily Thomas,Operations,1007,65783.0,true,2024-02-09,2025-12-08T16:53:21,emily.thomas@company.com,Consultant,4,Contractor,,,,,2027-04-24,LegalPros Agency
+Carol Lewis,Sales,1008,71669.93,true,2022-05-20,2025-12-08T16:53:21,carol.lewis@company.com,Director,8,Contractor,,,,,2026-06-07,Elite Contractors
+Margaret Jackson,Engineering,1009,76402.74,true,2021-08-16,2025-12-08T16:53:21,margaret.jackson@company.com,Manager,5,Contractor,,,,,2027-09-30,LegalPros Agency
+Paul Torres,Operations,1010,89914.46,true,2024-03-31,2025-12-08T16:53:21,paul.torres@company.com,Coordinator,4,PartTime,,,34,28.16,,
+Emily Wilson,Marketing,1011,70900.68,true,2023-06-27,2025-12-08T16:53:21,emily.wilson@company.com,Analyst,8,PartTime,,,29,19.19,,
+Deborah Robinson,IT,1012,80192.77,false,2020-11-03,2025-12-08T16:53:21,deborah.robinson@company.com,Manager,0,PartTime,,,25,24.54,,
+Emily Harris,Legal,1013,83263.38,true,2020-03-03,2025-12-08T16:53:21,emily.harris@company.com,Consultant,3,Contractor,,,,,2027-11-04,TechStaff Inc
+Susan Hill,Engineering,1014,57282.86,true,2023-03-23,2025-12-08T16:53:21,susan.hill@company.com,Manager,3,FullTime,Premium Health,25,,,
+Patricia Wright,HR,1015,80930.53,true,2019-04-03,2025-12-08T16:53:21,patricia.wright@company.com,Specialist,0,Contractor,,,,,2027-11-24,TechStaff Inc
+Mark Garcia,Marketing,1016,48529.52,false,2025-02-22,2025-12-08T16:53:21,mark.garcia@company.com,Manager,7,Contractor,,,,,2027-05-06,TechStaff Inc
+Paul Allen,Design,1017,74479.11,true,2024-10-05,2025-12-08T16:53:21,paul.allen@company.com,Specialist,8,PartTime,,,29,22.81,,
+Carol Martinez,Sales,1018,90373.36,true,2025-08-11,2025-12-08T16:53:21,carol.martinez@company.com,Coordinator,2,PartTime,,,33,18.22,,
+Joseph Moore,IT,1019,92733.09,true,2021-10-01,2025-12-08T16:53:21,joseph.moore@company.com,Engineer,10,FullTime,Premium Health,21,,,
+Andrew Flores,HR,1020,74525.14,true,2021-03-31,2025-12-08T16:53:21,andrew.flores@company.com,Manager,4,Contractor,,,,,2027-02-20,TechStaff Inc
+Ashley Williams,Customer Service,1021,42394.93,true,2023-06-15,2025-12-08T16:53:21,ashley.williams@company.com,Designer,8,Contractor,,,,,2026-04-24,Elite Contractors
+Joseph Davis,Finance,1022,83858.94,true,2024-10-20,2025-12-08T16:53:21,joseph.davis@company.com,Analyst,7,PartTime,,,26,23.13,,
+Lisa Wilson,Legal,1023,73043.25,true,2022-12-05,2025-12-08T16:53:21,lisa.wilson@company.com,Manager,9,Contractor,,,,,2027-08-28,Global Staffing
+Joseph Clark,Sales,1024,57613.97,false,2023-01-13,2025-12-08T16:53:21,joseph.clark@company.com,Engineer,4,Contractor,,,,,2026-09-11,LegalPros Agency
+Mark King,Marketing,1025,81354.22,true,2024-05-26,2025-12-08T16:53:21,mark.king@company.com,Designer,1,PartTime,,,22,27.37,,
+Steven Scott,HR,1026,54281.81,true,2020-03-16,2025-12-08T16:53:21,steven.scott@company.com,Designer,2,FullTime,Standard Health,25,,,
+Donna Garcia,Marketing,1027,68193.83,false,2025-09-03,2025-12-08T16:53:21,donna.garcia@company.com,Specialist,0,Contractor,,,,,2026-10-19,LegalPros Agency
+Linda Perez,Customer Service,1028,93369.22,false,2022-12-07,2025-12-08T16:53:21,linda.perez@company.com,Engineer,7,PartTime,,,18,24.04,,
+Mark Wright,Operations,1029,92079.14,true,2025-07-05,2025-12-08T16:53:21,mark.wright@company.com,Manager,7,Contractor,,,,,2027-04-15,LegalPros Agency
+Patricia Lopez,Finance,1030,40226.37,true,2020-09-24,2025-12-08T16:53:21,patricia.lopez@company.com,Associate,0,FullTime,Standard Health,20,,,
+William Young,Operations,1031,80905.89,true,2025-09-23,2025-12-08T16:53:21,william.young@company.com,Designer,1,FullTime,Premium Health,23,,,
+Thomas Taylor,Engineering,1032,63891.52,false,2021-10-01,2025-12-08T16:53:21,thomas.taylor@company.com,Developer,7,Contractor,,,,,2026-04-25,Elite Contractors
+Andrew Scott,Legal,1033,94472.47,true,2022-09-26,2025-12-08T16:53:21,andrew.scott@company.com,Director,8,PartTime,,,25,26.54,,
+Michael Davis,Finance,1034,71929.0,false,2022-09-22,2025-12-08T16:53:21,michael.davis@company.com,Director,5,Contractor,,,,,2026-05-16,Global Staffing
+Lisa Allen,Operations,1035,93059.94,false,2019-01-15,2025-12-08T16:53:21,lisa.allen@company.com,Coordinator,0,Contractor,,,,,2027-07-15,Global Staffing
+Nancy Clark,Sales,1036,41635.62,true,2024-09-25,2025-12-08T16:53:21,nancy.clark@company.com,Coordinator,6,FullTime,Premium Health,16,,,
+Donald Brown,IT,1037,82683.8,true,2024-02-25,2025-12-08T16:53:21,donald.brown@company.com,Analyst,5,FullTime,Basic Health,24,,,
+William Flores,Operations,1038,90435.01,true,2025-02-02,2025-12-08T16:53:21,william.flores@company.com,Associate,10,Contractor,,,,,2027-01-05,Global Staffing
+Christopher Hill,HR,1039,72619.3,false,2023-05-05,2025-12-08T16:53:21,christopher.hill@company.com,Consultant,5,FullTime,Premium Health,17,,,
+Ashley Gonzalez,Operations,1040,90888.3,true,2020-07-04,2025-12-08T16:53:21,ashley.gonzalez@company.com,Manager,1,FullTime,Premium Health,18,,,
+Elizabeth Young,HR,1041,56156.37,true,2019-03-10,2025-12-08T16:53:21,elizabeth.young@company.com,Manager,4,Contractor,,,,,2026-05-09,TechStaff Inc
+George Smith,Customer Service,1042,60433.81,true,2020-12-07,2025-12-08T16:53:21,george.smith@company.com,Developer,5,PartTime,,,23,28.7,,
+Daniel Ramirez,Design,1043,51304.59,true,2021-12-04,2025-12-08T16:53:21,daniel.ramirez@company.com,Director,0,FullTime,Standard Health,27,,,
+Sarah Gonzalez,Customer Service,1044,65109.5,true,2024-05-04,2025-12-08T16:53:21,sarah.gonzalez@company.com,Developer,10,FullTime,Standard Health,17,,,
+Sarah Robinson,HR,1045,77773.59,true,2022-08-11,2025-12-08T16:53:21,sarah.robinson@company.com,Manager,7,PartTime,,,35,20.08,,
+Patricia Lee,Customer Service,1046,74402.12,true,2018-12-19,2025-12-08T16:53:21,patricia.lee@company.com,Designer,3,Contractor,,,,,2027-04-22,LegalPros Agency
+Mark Davis,Customer Service,1047,49237.47,true,2021-01-22,2025-12-08T16:53:21,mark.davis@company.com,Specialist,6,Contractor,,,,,2026-12-10,TechStaff Inc
+Melissa Anderson,Marketing,1048,72066.09,true,2025-04-19,2025-12-08T16:53:21,melissa.anderson@company.com,Consultant,2,Contractor,,,,,2026-05-25,Elite Contractors
+Daniel Anderson,Sales,1049,46634.03,true,2025-08-24,2025-12-08T16:53:21,daniel.anderson@company.com,Manager,8,PartTime,,,19,18.69,,
+Barbara Davis,IT,1050,43448.7,true,2021-02-03,2025-12-08T16:53:21,barbara.davis@company.com,Designer,0,FullTime,Premium Health,20,,,
+Kimberly Torres,Engineering,1051,45865.61,false,2020-01-31,2025-12-08T16:53:21,kimberly.torres@company.com,Associate,8,PartTime,,,29,26.76,,
+Deborah Hill,Marketing,1052,83078.37,false,2020-08-06,2025-12-08T16:53:21,deborah.hill@company.com,Analyst,5,Contractor,,,,,2026-05-03,LegalPros Agency
+Andrew Young,IT,1053,89285.02,true,2025-10-03,2025-12-08T16:53:21,andrew.young@company.com,Manager,8,PartTime,,,21,19.58,,
+Susan Johnson,Engineering,1054,40763.71,false,2025-02-05,2025-12-08T16:53:21,susan.johnson@company.com,Developer,8,FullTime,Premium Health,29,,,
+Christopher Wilson,Finance,1055,78112.22,true,2024-06-08,2025-12-08T16:53:21,christopher.wilson@company.com,Associate,1,Contractor,,,,,2027-07-11,TechStaff Inc
+Brian Garcia,Legal,1056,71450.37,true,2019-03-02,2025-12-08T16:53:21,brian.garcia@company.com,Manager,5,PartTime,,,22,21.24,,
+Ashley Ramirez,Design,1057,61322.45,true,2024-06-30,2025-12-08T16:53:21,ashley.ramirez@company.com,Specialist,2,PartTime,,,31,23.42,,
+John Davis,HR,1058,50344.72,true,2023-05-19,2025-12-08T16:53:21,john.davis@company.com,Director,1,Contractor,,,,,2026-05-04,Global Staffing
+Linda Wilson,Engineering,1059,70892.2,true,2023-03-24,2025-12-08T16:53:21,linda.wilson@company.com,Consultant,6,PartTime,,,32,20.44,,
+Amanda Wright,HR,1060,52391.8,false,2023-04-26,2025-12-08T16:53:21,amanda.wright@company.com,Specialist,10,Contractor,,,,,2027-02-20,LegalPros Agency
+Jennifer Hernandez,Customer Service,1061,80415.5,false,2022-07-31,2025-12-08T16:53:21,jennifer.hernandez@company.com,Associate,6,PartTime,,,19,20.03,,
+Linda Ramirez,Legal,1062,66621.39,true,2022-04-24,2025-12-08T16:53:21,linda.ramirez@company.com,Manager,0,PartTime,,,35,20.25,,
+George Wright,Engineering,1063,54801.45,true,2021-05-01,2025-12-08T16:53:21,george.wright@company.com,Consultant,6,PartTime,,,25,18.68,,
+Donna Ramirez,Customer Service,1064,88518.32,false,2024-05-25,2025-12-08T16:53:21,donna.ramirez@company.com,Developer,3,FullTime,Standard Health,23,,,
+John Scott,Sales,1065,71503.41,true,2020-05-15,2025-12-08T16:53:21,john.scott@company.com,Engineer,2,Contractor,,,,,2026-07-17,Elite Contractors
+Melissa Taylor,IT,1066,52958.47,true,2020-02-18,2025-12-08T16:53:21,melissa.taylor@company.com,Designer,1,Contractor,,,,,2027-03-04,Elite Contractors
+Kevin Martinez,Engineering,1067,65898.86,true,2025-11-19,2025-12-08T16:53:21,kevin.martinez@company.com,Analyst,7,Contractor,,,,,2027-04-12,Elite Contractors
+Jennifer Jones,Operations,1068,74090.71,true,2022-09-04,2025-12-08T16:53:21,jennifer.jones@company.com,Coordinator,6,PartTime,,,29,26.89,,
+Andrew Torres,Finance,1069,45166.66,false,2021-11-16,2025-12-08T16:53:21,andrew.torres@company.com,Specialist,9,PartTime,,,31,29.87,,
+Betty Miller,Marketing,1070,72650.57,true,2019-03-05,2025-12-08T16:53:21,betty.miller@company.com,Director,10,FullTime,Basic Health,17,,,
+Michelle Rodriguez,Operations,1071,44792.48,true,2022-03-26,2025-12-08T16:53:21,michelle.rodriguez@company.com,Developer,2,PartTime,,,33,22.52,,
+Joseph Wilson,Finance,1072,87406.87,true,2024-05-21,2025-12-08T16:53:21,joseph.wilson@company.com,Designer,8,PartTime,,,30,28.7,,
+Margaret Jones,Operations,1073,83842.41,true,2024-10-29,2025-12-08T16:53:21,margaret.jones@company.com,Coordinator,3,Contractor,,,,,2027-10-09,Global Staffing
+Barbara Young,Engineering,1074,42197.43,true,2022-02-10,2025-12-08T16:53:21,barbara.young@company.com,Coordinator,1,FullTime,Basic Health,25,,,
+Betty Flores,Operations,1075,52457.81,true,2023-01-23,2025-12-08T16:53:21,betty.flores@company.com,Consultant,8,PartTime,,,18,23.8,,
+Steven Martinez,Finance,1076,57846.3,true,2024-07-06,2025-12-08T16:53:21,steven.martinez@company.com,Designer,10,PartTime,,,23,24.69,,
+Michelle Clark,Sales,1077,76845.08,true,2024-07-18,2025-12-08T16:53:21,michelle.clark@company.com,Associate,6,PartTime,,,26,21.82,,
+Michelle Lopez,Marketing,1078,70086.72,true,2024-08-19,2025-12-08T16:53:21,michelle.lopez@company.com,Consultant,4,PartTime,,,26,19.15,,
+Robert White,Customer Service,1079,63353.01,true,2022-06-15,2025-12-08T16:53:21,robert.white@company.com,Engineer,6,PartTime,,,26,19.29,,
+Joshua Robinson,IT,1080,87869.2,false,2021-12-23,2025-12-08T16:53:21,joshua.robinson@company.com,Analyst,9,PartTime,,,20,19.61,,
+Lisa Clark,IT,1081,57448.56,true,2021-06-16,2025-12-08T16:53:21,lisa.clark@company.com,Director,7,Contractor,,,,,2026-05-27,LegalPros Agency
+Christopher Scott,Engineering,1082,52961.97,false,2022-06-22,2025-12-08T16:53:21,christopher.scott@company.com,Designer,6,FullTime,Basic Health,24,,,
+Daniel Williams,HR,1083,92596.44,true,2019-07-29,2025-12-08T16:53:21,daniel.williams@company.com,Coordinator,5,FullTime,Premium Health,29,,,
+Kevin Smith,Design,1084,40466.24,true,2019-02-23,2025-12-08T16:53:21,kevin.smith@company.com,Manager,5,PartTime,,,25,20.56,,
+Robert Rodriguez,HR,1085,84883.41,true,2023-12-11,2025-12-08T16:53:21,robert.rodriguez@company.com,Associate,6,Contractor,,,,,2026-09-24,LegalPros Agency
+Robert Johnson,Legal,1086,89782.49,false,2023-04-07,2025-12-08T16:53:21,robert.johnson@company.com,Developer,0,PartTime,,,26,20.86,,
+Thomas Lewis,Sales,1087,68100.29,true,2022-09-26,2025-12-08T16:53:21,thomas.lewis@company.com,Consultant,8,Contractor,,,,,2026-11-05,LegalPros Agency
+Anthony Wright,Legal,1088,90553.61,true,2021-06-07,2025-12-08T16:53:21,anthony.wright@company.com,Associate,1,PartTime,,,35,29.79,,
+Elizabeth Lopez,IT,1089,46645.28,true,2024-04-05,2025-12-08T16:53:21,elizabeth.lopez@company.com,Coordinator,3,Contractor,,,,,2026-03-24,TechStaff Inc
+Brian Sanchez,Sales,1090,69146.52,true,2020-09-07,2025-12-08T16:53:21,brian.sanchez@company.com,Coordinator,9,FullTime,Standard Health,20,,,
+Lisa Williams,IT,1091,56651.37,true,2024-08-03,2025-12-08T16:53:21,lisa.williams@company.com,Manager,6,FullTime,Premium Health,19,,,
+Paul Smith,Design,1092,73381.34,true,2022-06-29,2025-12-08T16:53:21,paul.smith@company.com,Analyst,8,Contractor,,,,,2026-04-17,LegalPros Agency
+Deborah Jones,Customer Service,1093,45500.35,false,2021-04-01,2025-12-08T16:53:21,deborah.jones@company.com,Consultant,0,FullTime,Premium Health,30,,,
+Melissa Anderson,Sales,1094,55413.43,false,2019-09-24,2025-12-08T16:53:21,melissa.anderson@company.com,Specialist,5,FullTime,Basic Health,15,,,
+Barbara Sanchez,Legal,1095,53113.22,true,2022-07-06,2025-12-08T16:53:21,barbara.sanchez@company.com,Director,10,FullTime,Premium Health,21,,,
+George Davis,Customer Service,1096,70058.95,true,2022-07-26,2025-12-08T16:53:21,george.davis@company.com,Consultant,5,Contractor,,,,,2026-11-02,LegalPros Agency
+Jessica Johnson,Design,1097,83838.18,true,2022-05-24,2025-12-08T16:53:21,jessica.johnson@company.com,Analyst,0,FullTime,Premium Health,29,,,
+Elizabeth King,Marketing,1098,61595.66,true,2022-04-26,2025-12-08T16:53:21,elizabeth.king@company.com,Coordinator,0,PartTime,,,35,20.46,,
+Michael Thompson,Sales,1099,87030.56,true,2020-09-25,2025-12-08T16:53:21,michael.thompson@company.com,Analyst,4,PartTime,,,17,28.74,,
+Deborah Moore,Engineering,1100,90315.03,true,2020-07-29,2025-12-08T16:53:21,deborah.moore@company.com,Consultant,9,Contractor,,,,,2027-02-17,TechStaff Inc
+Timothy Anderson,HR,1101,86311.71,true,2020-07-15,2025-12-08T16:53:21,timothy.anderson@company.com,Director,7,Contractor,,,,,2027-07-27,LegalPros Agency
+Timothy Nguyen,Engineering,1102,79450.11,true,2021-08-22,2025-12-08T16:53:21,timothy.nguyen@company.com,Specialist,4,PartTime,,,26,19.12,,
+Donna Brown,Marketing,1103,60047.4,true,2021-07-28,2025-12-08T16:53:21,donna.brown@company.com,Specialist,6,PartTime,,,35,24.39,,
+Melissa Walker,Sales,1104,73468.25,true,2021-01-24,2025-12-08T16:53:21,melissa.walker@company.com,Associate,2,FullTime,Premium Health,15,,,
+Anthony Miller,Operations,1105,62815.62,true,2021-09-27,2025-12-08T16:53:21,anthony.miller@company.com,Coordinator,8,PartTime,,,16,21.19,,
+Elizabeth Jones,HR,1106,79333.81,true,2019-06-22,2025-12-08T16:53:21,elizabeth.jones@company.com,Engineer,10,FullTime,Basic Health,27,,,
+Nancy Thompson,Finance,1107,88801.33,true,2025-01-01,2025-12-08T16:53:21,nancy.thompson@company.com,Director,4,Contractor,,,,,2026-05-25,TechStaff Inc
+Deborah Robinson,Engineering,1108,63127.86,false,2025-11-23,2025-12-08T16:53:21,deborah.robinson@company.com,Coordinator,5,FullTime,Basic Health,16,,,
+Timothy Clark,Customer Service,1109,85512.04,true,2023-11-09,2025-12-08T16:53:21,timothy.clark@company.com,Consultant,4,Contractor,,,,,2027-02-15,TechStaff Inc
+William Hill,Finance,1110,88002.23,true,2022-10-27,2025-12-08T16:53:21,william.hill@company.com,Coordinator,8,FullTime,Premium Health,22,,,
+Amanda Allen,Design,1111,73826.64,true,2019-05-22,2025-12-08T16:53:21,amanda.allen@company.com,Manager,1,Contractor,,,,,2026-10-16,Global Staffing
+Carol Hernandez,Customer Service,1112,87834.96,true,2021-03-03,2025-12-08T16:53:21,carol.hernandez@company.com,Designer,8,FullTime,Basic Health,20,,,
+Thomas Perez,Sales,1113,55779.68,true,2025-08-03,2025-12-08T16:53:21,thomas.perez@company.com,Analyst,8,FullTime,Basic Health,30,,,
+James Torres,Marketing,1114,64178.03,true,2019-06-07,2025-12-08T16:53:21,james.torres@company.com,Specialist,8,FullTime,Standard Health,30,,,
+Timothy Walker,Legal,1115,58089.63,false,2025-05-12,2025-12-08T16:53:21,timothy.walker@company.com,Associate,8,PartTime,,,28,29.64,,
+Richard Walker,Engineering,1116,42588.23,true,2024-01-13,2025-12-08T16:53:21,richard.walker@company.com,Specialist,0,Contractor,,,,,2027-04-15,Elite Contractors
+Melissa Ramirez,IT,1117,74479.19,true,2020-04-05,2025-12-08T16:53:21,melissa.ramirez@company.com,Developer,0,FullTime,Basic Health,23,,,
+Donald Hill,Legal,1118,63755.11,true,2022-02-13,2025-12-08T16:53:21,donald.hill@company.com,Designer,0,FullTime,Basic Health,28,,,
+Dorothy Torres,Customer Service,1119,90991.33,true,2023-08-07,2025-12-08T16:53:21,dorothy.torres@company.com,Coordinator,7,PartTime,,,30,22.2,,
+Patricia White,Finance,1120,57227.68,true,2021-05-01,2025-12-08T16:53:21,patricia.white@company.com,Designer,7,Contractor,,,,,2026-04-05,Global Staffing
+Daniel Nguyen,Engineering,1121,82420.59,true,2021-05-12,2025-12-08T16:53:21,daniel.nguyen@company.com,Associate,7,PartTime,,,21,27.73,,
+John Thomas,Design,1122,81466.77,true,2023-01-27,2025-12-08T16:53:21,john.thomas@company.com,Developer,9,FullTime,Standard Health,19,,,
+Christopher Nguyen,Operations,1123,77120.86,true,2025-03-11,2025-12-08T16:53:21,christopher.nguyen@company.com,Engineer,3,FullTime,Standard Health,23,,,
+Dorothy Davis,IT,1124,54823.12,true,2024-03-20,2025-12-08T16:53:21,dorothy.davis@company.com,Associate,10,PartTime,,,28,23.52,,
+Matthew Garcia,Operations,1125,77300.87,true,2024-03-13,2025-12-08T16:53:21,matthew.garcia@company.com,Developer,2,Contractor,,,,,2027-09-07,Global Staffing
+Andrew Smith,Operations,1126,48440.2,true,2025-07-23,2025-12-08T16:53:21,andrew.smith@company.com,Analyst,9,PartTime,,,16,20.54,,
+Kevin Nguyen,Operations,1127,92655.18,true,2025-05-11,2025-12-08T16:53:21,kevin.nguyen@company.com,Specialist,10,FullTime,Basic Health,22,,,
+Amanda Flores,Legal,1128,47024.84,true,2023-12-02,2025-12-08T16:53:21,amanda.flores@company.com,Analyst,1,Contractor,,,,,2027-05-06,TechStaff Inc
+Mary Perez,Engineering,1129,56090.2,true,2019-11-27,2025-12-08T16:53:21,mary.perez@company.com,Consultant,9,PartTime,,,24,20.4,,
+Charles Wilson,Engineering,1130,46079.67,true,2023-03-17,2025-12-08T16:53:21,charles.wilson@company.com,Associate,10,Contractor,,,,,2027-07-30,LegalPros Agency
+Christopher Flores,Customer Service,1131,41485.18,true,2022-07-05,2025-12-08T16:53:21,christopher.flores@company.com,Consultant,0,PartTime,,,32,29.99,,
+Michelle Williams,Customer Service,1132,57388.19,true,2024-07-16,2025-12-08T16:53:21,michelle.williams@company.com,Associate,9,PartTime,,,31,28.32,,
+David Rodriguez,Engineering,1133,51275.84,true,2023-10-03,2025-12-08T16:53:21,david.rodriguez@company.com,Manager,7,FullTime,Standard Health,17,,,
+Mary Lee,HR,1134,79631.07,true,2020-08-05,2025-12-08T16:53:21,mary.lee@company.com,Coordinator,1,FullTime,Premium Health,17,,,
+Sandra Moore,HR,1135,64724.75,true,2025-11-02,2025-12-08T16:53:21,sandra.moore@company.com,Coordinator,3,FullTime,Standard Health,30,,,
+Lisa Smith,Engineering,1136,65671.82,true,2024-08-08,2025-12-08T16:53:21,lisa.smith@company.com,Engineer,9,PartTime,,,20,28.41,,
+Steven Hill,Legal,1137,89591.93,true,2020-11-11,2025-12-08T16:53:21,steven.hill@company.com,Analyst,2,Contractor,,,,,2026-05-28,LegalPros Agency
+Mary Smith,IT,1138,56018.33,true,2025-12-07,2025-12-08T16:53:21,mary.smith@company.com,Analyst,7,FullTime,Basic Health,28,,,
+Christopher Jones,Sales,1139,55363.7,true,2025-09-17,2025-12-08T16:53:21,christopher.jones@company.com,Developer,5,Contractor,,,,,2027-06-05,TechStaff Inc
+Matthew Wilson,Marketing,1140,83744.67,true,2019-08-01,2025-12-08T16:53:21,matthew.wilson@company.com,Associate,7,FullTime,Basic Health,27,,,
+Kevin Taylor,Operations,1141,76538.44,true,2020-02-20,2025-12-08T16:53:21,kevin.taylor@company.com,Coordinator,7,Contractor,,,,,2027-08-01,LegalPros Agency
+Paul Scott,Sales,1142,42613.09,true,2024-05-25,2025-12-08T16:53:21,paul.scott@company.com,Analyst,10,PartTime,,,22,21.09,,
+Jessica Scott,HR,1143,69375.22,true,2023-11-13,2025-12-08T16:53:21,jessica.scott@company.com,Consultant,0,FullTime,Standard Health,30,,,
+Kimberly Smith,Marketing,1144,92533.92,true,2019-07-20,2025-12-08T16:53:21,kimberly.smith@company.com,Developer,2,Contractor,,,,,2027-05-10,LegalPros Agency
+Karen Allen,Design,1145,76975.84,true,2019-07-06,2025-12-08T16:53:21,karen.allen@company.com,Director,3,FullTime,Premium Health,22,,,
+Steven Brown,Marketing,1146,64053.92,false,2020-11-17,2025-12-08T16:53:21,steven.brown@company.com,Coordinator,0,FullTime,Premium Health,16,,,
+Mary Young,Marketing,1147,78579.06,true,2020-04-03,2025-12-08T16:53:21,mary.young@company.com,Developer,6,FullTime,Basic Health,28,,,
+Charles Miller,Design,1148,88990.1,false,2025-06-28,2025-12-08T16:53:21,charles.miller@company.com,Director,0,PartTime,,,33,23.09,,
+David Clark,Design,1149,57960.27,true,2024-03-07,2025-12-08T16:53:21,david.clark@company.com,Designer,0,PartTime,,,22,29.05,,
+Anthony Flores,Marketing,1150,77051.86,true,2018-12-14,2025-12-08T16:53:21,anthony.flores@company.com,Manager,6,Contractor,,,,,2026-07-08,LegalPros Agency
+Joshua Martinez,Legal,1151,91942.36,true,2019-04-22,2025-12-08T16:53:21,joshua.martinez@company.com,Coordinator,0,Contractor,,,,,2027-03-25,Elite Contractors
+Kimberly Clark,Legal,1152,56809.9,true,2022-05-01,2025-12-08T16:53:21,kimberly.clark@company.com,Engineer,1,Contractor,,,,,2026-08-27,Global Staffing
+Jennifer White,Finance,1153,84329.33,true,2020-02-29,2025-12-08T16:53:21,jennifer.white@company.com,Associate,1,FullTime,Basic Health,22,,,
+Christopher Wilson,HR,1154,58136.57,true,2019-01-19,2025-12-08T16:53:21,christopher.wilson@company.com,Consultant,5,FullTime,Standard Health,25,,,
+Deborah Flores,IT,1155,50020.11,true,2020-09-07,2025-12-08T16:53:21,deborah.flores@company.com,Specialist,2,FullTime,Premium Health,16,,,
+Michelle Scott,Engineering,1156,82086.62,true,2024-02-05,2025-12-08T16:53:21,michelle.scott@company.com,Manager,10,FullTime,Premium Health,30,,,
+Kimberly Scott,Sales,1157,60443.99,true,2020-09-05,2025-12-08T16:53:21,kimberly.scott@company.com,Designer,5,FullTime,Basic Health,29,,,
+Timothy Harris,IT,1158,86402.46,false,2022-08-23,2025-12-08T16:53:21,timothy.harris@company.com,Designer,6,PartTime,,,24,18.36,,
+Emily Johnson,HR,1159,48599.11,true,2020-04-01,2025-12-08T16:53:21,emily.johnson@company.com,Analyst,7,Contractor,,,,,2027-06-10,Elite Contractors
+Sandra Rodriguez,Customer Service,1160,44523.6,false,2020-06-30,2025-12-08T16:53:21,sandra.rodriguez@company.com,Specialist,2,PartTime,,,27,24.24,,
+Michelle Thomas,Operations,1161,73421.52,true,2025-05-19,2025-12-08T16:53:21,michelle.thomas@company.com,Designer,10,PartTime,,,23,29.93,,
+Ashley Martin,Sales,1162,49514.98,true,2019-12-04,2025-12-08T16:53:21,ashley.martin@company.com,Coordinator,1,PartTime,,,16,21.9,,
+William Jackson,Design,1163,44786.57,false,2025-03-23,2025-12-08T16:53:21,william.jackson@company.com,Specialist,10,FullTime,Premium Health,25,,,
+Joshua Sanchez,Design,1164,84906.72,true,2025-09-08,2025-12-08T16:53:21,joshua.sanchez@company.com,Analyst,9,PartTime,,,34,26.07,,
+Richard Martin,Legal,1165,40681.16,true,2019-12-10,2025-12-08T16:53:21,richard.martin@company.com,Engineer,9,Contractor,,,,,2027-02-24,TechStaff Inc
+Lisa King,Design,1166,86260.41,true,2025-10-19,2025-12-08T16:53:21,lisa.king@company.com,Manager,5,Contractor,,,,,2026-05-12,Elite Contractors
+David Hernandez,IT,1167,44418.5,false,2019-10-18,2025-12-08T16:53:21,david.hernandez@company.com,Engineer,3,PartTime,,,16,26.95,,
+Susan Allen,Marketing,1168,44915.79,true,2024-07-13,2025-12-08T16:53:21,susan.allen@company.com,Developer,7,PartTime,,,35,21.0,,
+Kevin Flores,Legal,1169,91058.32,false,2024-04-21,2025-12-08T16:53:21,kevin.flores@company.com,Manager,4,FullTime,Standard Health,20,,,
+Melissa Miller,Finance,1170,85097.88,true,2022-07-31,2025-12-08T16:53:21,melissa.miller@company.com,Developer,8,FullTime,Basic Health,16,,,
+Joshua Moore,Customer Service,1171,67709.37,true,2020-11-21,2025-12-08T16:53:21,joshua.moore@company.com,Designer,10,PartTime,,,33,18.97,,
+Andrew White,Marketing,1172,64285.5,true,2020-01-22,2025-12-08T16:53:21,andrew.white@company.com,Coordinator,3,Contractor,,,,,2026-04-25,Global Staffing
+Carol Robinson,IT,1173,41649.56,true,2023-04-21,2025-12-08T16:53:21,carol.robinson@company.com,Manager,1,PartTime,,,16,23.98,,
+Donna Martin,HR,1174,62414.05,true,2020-09-11,2025-12-08T16:53:21,donna.martin@company.com,Associate,4,FullTime,Basic Health,24,,,
+Linda Flores,Operations,1175,42758.36,true,2019-08-26,2025-12-08T16:53:21,linda.flores@company.com,Specialist,7,FullTime,Premium Health,17,,,
+Mary Lopez,IT,1176,92000.06,true,2023-06-25,2025-12-08T16:53:21,mary.lopez@company.com,Manager,10,PartTime,,,29,20.92,,
+Brian Allen,Marketing,1177,43151.09,true,2019-11-22,2025-12-08T16:53:21,brian.allen@company.com,Analyst,0,FullTime,Premium Health,28,,,
+Betty King,HR,1178,91265.8,true,2020-11-08,2025-12-08T16:53:21,betty.king@company.com,Engineer,0,FullTime,Standard Health,22,,,
+Steven Martin,Engineering,1179,75264.34,true,2023-05-03,2025-12-08T16:53:21,steven.martin@company.com,Coordinator,10,Contractor,,,,,2027-08-03,Elite Contractors
+Charles Ramirez,Sales,1180,49156.98,true,2020-06-14,2025-12-08T16:53:21,charles.ramirez@company.com,Consultant,4,PartTime,,,28,25.31,,
+Ashley Miller,IT,1181,78923.31,false,2019-06-26,2025-12-08T16:53:21,ashley.miller@company.com,Specialist,2,PartTime,,,17,25.94,,
+Elizabeth Moore,Engineering,1182,78098.24,true,2025-04-30,2025-12-08T16:53:21,elizabeth.moore@company.com,Specialist,6,PartTime,,,17,23.68,,
+Donald Hill,Sales,1183,71902.36,true,2024-03-14,2025-12-08T16:53:21,donald.hill@company.com,Consultant,5,FullTime,Basic Health,28,,,
+Steven Anderson,HR,1184,75851.43,true,2022-12-25,2025-12-08T16:53:21,steven.anderson@company.com,Coordinator,1,PartTime,,,33,23.84,,
+Timothy Sanchez,Marketing,1185,61278.63,false,2022-08-03,2025-12-08T16:53:21,timothy.sanchez@company.com,Analyst,7,PartTime,,,30,24.63,,
+Lisa Sanchez,Design,1186,77973.47,true,2023-06-12,2025-12-08T16:53:21,lisa.sanchez@company.com,Engineer,6,Contractor,,,,,2027-01-18,LegalPros Agency
+Nancy Clark,IT,1187,69675.3,false,2021-07-15,2025-12-08T16:53:21,nancy.clark@company.com,Analyst,4,Contractor,,,,,2026-12-17,TechStaff Inc
+James Ramirez,Engineering,1188,65113.43,true,2019-12-16,2025-12-08T16:53:21,james.ramirez@company.com,Manager,7,PartTime,,,15,28.67,,
+Linda Nguyen,IT,1189,52908.35,true,2022-02-12,2025-12-08T16:53:21,linda.nguyen@company.com,Consultant,7,Contractor,,,,,2027-06-17,LegalPros Agency
+Dorothy Hill,Engineering,1190,67416.98,true,2024-10-06,2025-12-08T16:53:21,dorothy.hill@company.com,Consultant,1,FullTime,Standard Health,26,,,
+Steven Perez,Sales,1191,77966.25,true,2024-11-25,2025-12-08T16:53:21,steven.perez@company.com,Engineer,10,Contractor,,,,,2026-06-02,Global Staffing
+Donald Flores,Engineering,1192,41436.16,true,2023-10-23,2025-12-08T16:53:21,donald.flores@company.com,Designer,9,Contractor,,,,,2027-10-15,TechStaff Inc
+Donald Martinez,Marketing,1193,55027.35,true,2023-09-24,2025-12-08T16:53:21,donald.martinez@company.com,Engineer,7,PartTime,,,21,23.1,,
+William Sanchez,Operations,1194,80779.08,true,2022-12-10,2025-12-08T16:53:21,william.sanchez@company.com,Director,4,PartTime,,,33,29.46,,
+Charles Williams,Legal,1195,43818.73,false,2021-05-08,2025-12-08T16:53:21,charles.williams@company.com,Director,8,PartTime,,,30,24.39,,
+Michael Sanchez,Finance,1196,78816.01,true,2023-12-21,2025-12-08T16:53:21,michael.sanchez@company.com,Consultant,2,PartTime,,,30,27.7,,
+Donna Hill,Engineering,1197,45910.41,true,2022-05-22,2025-12-08T16:53:21,donna.hill@company.com,Director,4,PartTime,,,27,29.8,,
+Karen Davis,Sales,1198,41564.36,true,2019-01-27,2025-12-08T16:53:21,karen.davis@company.com,Engineer,7,PartTime,,,27,24.23,,
+Sarah King,Sales,1199,83749.61,true,2024-08-13,2025-12-08T16:53:21,sarah.king@company.com,Consultant,2,FullTime,Standard Health,22,,,
+Joseph Flores,Marketing,1200,41291.02,true,2020-06-04,2025-12-08T16:53:21,joseph.flores@company.com,Director,1,FullTime,Basic Health,30,,,
+Margaret Brown,HR,1201,78302.99,true,2024-05-17,2025-12-08T16:53:21,margaret.brown@company.com,Specialist,10,Contractor,,,,,2026-09-12,TechStaff Inc
+Christopher Hernandez,Operations,1202,86377.4,true,2024-12-26,2025-12-08T16:53:21,christopher.hernandez@company.com,Consultant,8,Contractor,,,,,2026-06-10,Global Staffing
+Mary Allen,Operations,1203,57812.6,true,2019-08-02,2025-12-08T16:53:21,mary.allen@company.com,Engineer,5,Contractor,,,,,2026-05-18,Elite Contractors
+James Smith,Sales,1204,73300.11,false,2022-05-22,2025-12-08T16:53:21,james.smith@company.com,Designer,5,PartTime,,,34,18.96,,
+Dorothy Hill,Marketing,1205,80320.45,true,2019-12-03,2025-12-08T16:53:21,dorothy.hill@company.com,Associate,10,PartTime,,,17,19.03,,
+Sarah Thomas,Marketing,1206,44648.43,true,2023-10-09,2025-12-08T16:53:21,sarah.thomas@company.com,Specialist,2,Contractor,,,,,2026-06-09,Elite Contractors
+Christopher Harris,Legal,1207,85772.83,true,2023-04-19,2025-12-08T16:53:21,christopher.harris@company.com,Coordinator,4,FullTime,Basic Health,25,,,
+Ashley Martinez,Customer Service,1208,59210.2,true,2019-02-03,2025-12-08T16:53:21,ashley.martinez@company.com,Director,0,FullTime,Basic Health,23,,,
+Kenneth Walker,Engineering,1209,93897.19,true,2019-09-08,2025-12-08T16:53:21,kenneth.walker@company.com,Coordinator,5,PartTime,,,32,18.68,,
+Thomas Young,Operations,1210,78398.67,true,2022-05-24,2025-12-08T16:53:21,thomas.young@company.com,Director,10,Contractor,,,,,2027-11-01,Global Staffing
+Christopher Davis,Legal,1211,80824.35,true,2024-04-26,2025-12-08T16:53:21,christopher.davis@company.com,Specialist,1,Contractor,,,,,2027-01-01,Global Staffing
+Carol Johnson,Engineering,1212,92037.93,false,2025-05-09,2025-12-08T16:53:21,carol.johnson@company.com,Coordinator,4,Contractor,,,,,2026-08-26,Elite Contractors
+Brian Young,Design,1213,60053.21,true,2024-09-07,2025-12-08T16:53:21,brian.young@company.com,Developer,2,Contractor,,,,,2026-07-17,LegalPros Agency
+John Garcia,Sales,1214,68049.97,true,2020-08-19,2025-12-08T16:53:21,john.garcia@company.com,Associate,9,FullTime,Standard Health,29,,,
+Kevin Scott,Design,1215,82939.57,true,2025-09-14,2025-12-08T16:53:21,kevin.scott@company.com,Analyst,4,Contractor,,,,,2026-05-27,TechStaff Inc
+Deborah Miller,Customer Service,1216,52536.2,true,2019-02-26,2025-12-08T16:53:21,deborah.miller@company.com,Designer,9,Contractor,,,,,2026-06-26,Global Staffing
+Anthony Walker,Legal,1217,68517.57,false,2019-11-03,2025-12-08T16:53:21,anthony.walker@company.com,Developer,8,FullTime,Standard Health,19,,,
+Jessica Hill,Legal,1218,63333.54,true,2021-01-04,2025-12-08T16:53:21,jessica.hill@company.com,Developer,3,Contractor,,,,,2027-10-14,Global Staffing
+Patricia Clark,Finance,1219,56143.73,true,2019-10-30,2025-12-08T16:53:21,patricia.clark@company.com,Associate,5,Contractor,,,,,2026-12-26,TechStaff Inc
+Karen Clark,Customer Service,1220,86757.94,true,2022-04-22,2025-12-08T16:53:21,karen.clark@company.com,Director,10,PartTime,,,19,28.19,,
+Nancy Gonzalez,IT,1221,61483.87,true,2021-12-11,2025-12-08T16:53:21,nancy.gonzalez@company.com,Associate,9,Contractor,,,,,2027-08-12,Elite Contractors
+Jessica Allen,IT,1222,86777.83,true,2021-09-05,2025-12-08T16:53:21,jessica.allen@company.com,Associate,6,PartTime,,,21,22.95,,
+Deborah Flores,Customer Service,1223,67822.85,true,2024-03-21,2025-12-08T16:53:21,deborah.flores@company.com,Director,0,Contractor,,,,,2027-08-03,Global Staffing
+Melissa Hill,Customer Service,1224,84220.66,true,2022-05-30,2025-12-08T16:53:21,melissa.hill@company.com,Designer,8,FullTime,Premium Health,15,,,
+Steven Jones,Sales,1225,56295.55,true,2023-02-14,2025-12-08T16:53:21,steven.jones@company.com,Designer,3,FullTime,Basic Health,18,,,
+Steven Williams,Legal,1226,61420.14,false,2021-02-25,2025-12-08T16:53:21,steven.williams@company.com,Developer,1,FullTime,Standard Health,23,,,
+Joseph Walker,Legal,1227,93147.62,false,2025-11-21,2025-12-08T16:53:21,joseph.walker@company.com,Associate,8,PartTime,,,24,22.73,,
+Matthew Thompson,Engineering,1228,81239.69,true,2022-04-18,2025-12-08T16:53:21,matthew.thompson@company.com,Coordinator,0,FullTime,Standard Health,17,,,
+Barbara Nguyen,HR,1229,88365.78,false,2019-05-21,2025-12-08T16:53:21,barbara.nguyen@company.com,Designer,7,Contractor,,,,,2026-03-09,TechStaff Inc
+Deborah Anderson,Marketing,1230,45145.34,true,2024-12-08,2025-12-08T16:53:21,deborah.anderson@company.com,Engineer,3,PartTime,,,29,26.52,,
+David Allen,HR,1231,54897.03,true,2022-11-09,2025-12-08T16:53:21,david.allen@company.com,Analyst,2,FullTime,Premium Health,15,,,
+Patricia Jones,Design,1232,74208.15,true,2019-03-22,2025-12-08T16:53:21,patricia.jones@company.com,Developer,2,PartTime,,,22,29.8,,
+Kenneth Thomas,Design,1233,94575.78,true,2025-09-14,2025-12-08T16:53:21,kenneth.thomas@company.com,Manager,3,Contractor,,,,,2027-01-08,Global Staffing
+Mark Thomas,IT,1234,59693.16,true,2023-12-16,2025-12-08T16:53:21,mark.thomas@company.com,Associate,2,FullTime,Premium Health,16,,,
+Nancy Smith,IT,1235,87277.03,true,2025-08-10,2025-12-08T16:53:21,nancy.smith@company.com,Coordinator,10,PartTime,,,34,20.03,,
+David White,HR,1236,66442.92,true,2023-05-13,2025-12-08T16:53:21,david.white@company.com,Consultant,5,FullTime,Premium Health,22,,,
+Michael Flores,Customer Service,1237,43033.77,true,2024-09-30,2025-12-08T16:53:21,michael.flores@company.com,Developer,5,Contractor,,,,,2027-11-23,LegalPros Agency
+Robert Garcia,Design,1238,72502.66,true,2022-04-13,2025-12-08T16:53:21,robert.garcia@company.com,Designer,0,FullTime,Basic Health,27,,,
+Barbara Robinson,Finance,1239,60510.84,true,2025-04-20,2025-12-08T16:53:21,barbara.robinson@company.com,Engineer,10,PartTime,,,32,29.9,,
+Daniel Moore,HR,1240,57398.98,true,2018-12-28,2025-12-08T16:53:21,daniel.moore@company.com,Associate,3,PartTime,,,28,29.41,,
+Thomas Williams,Marketing,1241,86812.38,true,2021-11-29,2025-12-08T16:53:21,thomas.williams@company.com,Director,3,FullTime,Basic Health,23,,,
+Deborah Martin,HR,1242,81380.8,true,2024-08-01,2025-12-08T16:53:21,deborah.martin@company.com,Consultant,4,Contractor,,,,,2027-05-02,Elite Contractors
+Christopher Young,Customer Service,1243,54207.93,true,2023-12-19,2025-12-08T16:53:21,christopher.young@company.com,Developer,4,FullTime,Premium Health,24,,,
+Emily Flores,Customer Service,1244,78255.27,true,2019-02-16,2025-12-08T16:53:21,emily.flores@company.com,Associate,8,PartTime,,,30,29.14,,
+Donald Moore,Operations,1245,50295.89,false,2019-02-18,2025-12-08T16:53:21,donald.moore@company.com,Consultant,2,PartTime,,,20,19.61,,
+Carol Thompson,Finance,1246,75967.01,true,2025-01-22,2025-12-08T16:53:21,carol.thompson@company.com,Coordinator,3,Contractor,,,,,2027-07-23,Global Staffing
+Kevin Walker,Legal,1247,51716.46,true,2024-04-04,2025-12-08T16:53:21,kevin.walker@company.com,Developer,5,PartTime,,,18,19.9,,
+Andrew Thomas,HR,1248,47079.8,true,2021-10-20,2025-12-08T16:53:21,andrew.thomas@company.com,Developer,0,FullTime,Standard Health,23,,,
+Daniel Clark,Finance,1249,91430.84,true,2023-10-17,2025-12-08T16:53:21,daniel.clark@company.com,Consultant,10,FullTime,Basic Health,23,,,
+Carol Scott,Legal,1250,76042.59,true,2022-02-14,2025-12-08T16:53:21,carol.scott@company.com,Associate,2,FullTime,Standard Health,27,,,
+Nancy Torres,Operations,1251,40386.93,true,2022-05-01,2025-12-08T16:53:21,nancy.torres@company.com,Associate,4,Contractor,,,,,2027-01-23,Elite Contractors
+Paul Smith,Marketing,1252,45878.59,true,2022-06-02,2025-12-08T16:53:21,paul.smith@company.com,Associate,2,Contractor,,,,,2027-01-10,TechStaff Inc
+Kimberly Young,Legal,1253,74162.16,true,2022-10-05,2025-12-08T16:53:21,kimberly.young@company.com,Specialist,4,Contractor,,,,,2027-10-01,TechStaff Inc
+Deborah Lee,Customer Service,1254,94159.49,true,2022-10-26,2025-12-08T16:53:21,deborah.lee@company.com,Analyst,1,PartTime,,,26,20.5,,
+Sarah Harris,Design,1255,85683.2,true,2019-05-22,2025-12-08T16:53:21,sarah.harris@company.com,Manager,0,PartTime,,,15,21.39,,
+Sandra Thompson,Sales,1256,72946.97,false,2020-03-20,2025-12-08T16:53:21,sandra.thompson@company.com,Director,9,PartTime,,,34,19.5,,
+Jennifer Walker,Finance,1257,85416.69,true,2019-10-24,2025-12-08T16:53:21,jennifer.walker@company.com,Specialist,2,FullTime,Standard Health,26,,,
+Emily Hill,Sales,1258,88351.64,true,2020-09-24,2025-12-08T16:53:21,emily.hill@company.com,Developer,9,FullTime,Basic Health,28,,,
+Joshua Garcia,Engineering,1259,64279.26,true,2021-02-21,2025-12-08T16:53:21,joshua.garcia@company.com,Coordinator,1,Contractor,,,,,2026-12-28,Global Staffing
+Donald Lopez,Finance,1260,56486.99,true,2020-12-28,2025-12-08T16:53:21,donald.lopez@company.com,Consultant,10,PartTime,,,28,20.22,,
+Michelle Jackson,HR,1261,80513.59,false,2025-05-11,2025-12-08T16:53:21,michelle.jackson@company.com,Analyst,9,FullTime,Basic Health,24,,,
+William Thompson,Sales,1262,51665.7,true,2020-03-31,2025-12-08T16:53:21,william.thompson@company.com,Engineer,10,Contractor,,,,,2027-07-11,Global Staffing
+Kevin Perez,Operations,1263,79006.58,true,2021-06-26,2025-12-08T16:53:21,kevin.perez@company.com,Designer,5,FullTime,Standard Health,16,,,
+Timothy Torres,Legal,1264,69333.5,false,2019-04-10,2025-12-08T16:53:21,timothy.torres@company.com,Designer,1,Contractor,,,,,2027-04-13,TechStaff Inc
+Richard Brown,Operations,1265,94368.28,true,2019-09-22,2025-12-08T16:53:21,richard.brown@company.com,Specialist,1,FullTime,Basic Health,15,,,
+William Thomas,Legal,1266,78604.08,true,2021-03-23,2025-12-08T16:53:21,william.thomas@company.com,Specialist,2,PartTime,,,31,26.05,,
+David Brown,IT,1267,84285.71,true,2020-12-11,2025-12-08T16:53:21,david.brown@company.com,Coordinator,0,FullTime,Basic Health,30,,,
+Donald Brown,Finance,1268,84531.06,true,2025-09-13,2025-12-08T16:53:21,donald.brown@company.com,Coordinator,5,FullTime,Basic Health,29,,,
+Mark Ramirez,Legal,1269,42432.65,true,2023-09-12,2025-12-08T16:53:21,mark.ramirez@company.com,Engineer,2,FullTime,Premium Health,19,,,
+Paul White,Operations,1270,78287.73,false,2020-03-08,2025-12-08T16:53:21,paul.white@company.com,Engineer,9,Contractor,,,,,2027-12-06,Elite Contractors
+Dorothy Lewis,Sales,1271,84560.12,true,2024-10-27,2025-12-08T16:53:21,dorothy.lewis@company.com,Engineer,1,Contractor,,,,,2026-05-07,Global Staffing
+Karen Young,Design,1272,77278.38,true,2020-05-26,2025-12-08T16:53:21,karen.young@company.com,Designer,1,PartTime,,,31,28.84,,
+Elizabeth Hernandez,Finance,1273,47294.94,false,2024-05-04,2025-12-08T16:53:21,elizabeth.hernandez@company.com,Manager,4,PartTime,,,34,18.83,,
+Jessica Moore,Legal,1274,84845.06,true,2025-09-10,2025-12-08T16:53:21,jessica.moore@company.com,Analyst,1,PartTime,,,19,27.12,,
+Dorothy Hill,HR,1275,67881.17,true,2024-08-28,2025-12-08T16:53:21,dorothy.hill@company.com,Director,5,PartTime,,,16,21.54,,
+Susan Taylor,Sales,1276,67007.01,true,2025-05-05,2025-12-08T16:53:21,susan.taylor@company.com,Associate,5,PartTime,,,25,19.47,,
+Joseph Thomas,Sales,1277,86707.49,true,2019-02-23,2025-12-08T16:53:21,joseph.thomas@company.com,Manager,8,FullTime,Standard Health,19,,,
+Mary Garcia,Design,1278,51254.02,false,2019-09-02,2025-12-08T16:53:21,mary.garcia@company.com,Manager,2,FullTime,Premium Health,15,,,
+William White,Marketing,1279,92570.27,true,2021-04-11,2025-12-08T16:53:21,william.white@company.com,Consultant,8,Contractor,,,,,2026-04-01,Global Staffing
+Dorothy Lee,Operations,1280,52752.4,true,2025-01-15,2025-12-08T16:53:21,dorothy.lee@company.com,Engineer,8,FullTime,Standard Health,15,,,
+Andrew Davis,HR,1281,89735.41,true,2021-11-16,2025-12-08T16:53:21,andrew.davis@company.com,Specialist,9,Contractor,,,,,2026-12-22,TechStaff Inc
+Brian King,Engineering,1282,61970.01,false,2019-12-16,2025-12-08T16:53:21,brian.king@company.com,Manager,3,PartTime,,,28,26.49,,
+John Miller,HR,1283,53456.95,true,2025-04-27,2025-12-08T16:53:21,john.miller@company.com,Designer,5,PartTime,,,33,18.52,,
+David Taylor,Sales,1284,52948.24,true,2021-12-14,2025-12-08T16:53:21,david.taylor@company.com,Specialist,7,PartTime,,,23,25.56,,
+Dorothy Martin,Sales,1285,81153.31,true,2021-10-27,2025-12-08T16:53:21,dorothy.martin@company.com,Engineer,10,FullTime,Standard Health,19,,,
+Donna Ramirez,Finance,1286,74620.78,false,2022-03-03,2025-12-08T16:53:21,donna.ramirez@company.com,Specialist,1,Contractor,,,,,2026-04-01,Global Staffing
+Betty Sanchez,IT,1287,67785.89,true,2022-05-20,2025-12-08T16:53:21,betty.sanchez@company.com,Engineer,9,FullTime,Standard Health,29,,,
+Kimberly Hernandez,Marketing,1288,82517.4,true,2023-12-22,2025-12-08T16:53:21,kimberly.hernandez@company.com,Coordinator,3,FullTime,Standard Health,16,,,
+Nancy Anderson,Engineering,1289,57348.32,false,2019-10-08,2025-12-08T16:53:21,nancy.anderson@company.com,Manager,8,Contractor,,,,,2027-08-27,TechStaff Inc
+Patricia Perez,Engineering,1290,65451.63,true,2025-04-24,2025-12-08T16:53:21,patricia.perez@company.com,Developer,10,FullTime,Standard Health,24,,,
+Karen Rodriguez,IT,1291,55323.97,true,2020-03-10,2025-12-08T16:53:21,karen.rodriguez@company.com,Analyst,5,PartTime,,,28,28.3,,
+Mary Rodriguez,Finance,1292,83344.36,true,2024-04-10,2025-12-08T16:53:21,mary.rodriguez@company.com,Consultant,10,PartTime,,,18,28.02,,
+Thomas Rodriguez,Finance,1293,81968.85,true,2019-06-28,2025-12-08T16:53:21,thomas.rodriguez@company.com,Engineer,2,PartTime,,,24,26.03,,
+Timothy Lewis,Marketing,1294,42474.42,false,2025-01-27,2025-12-08T16:53:21,timothy.lewis@company.com,Specialist,0,PartTime,,,29,26.06,,
+Joseph Lewis,Engineering,1295,78651.78,true,2019-03-15,2025-12-08T16:53:21,joseph.lewis@company.com,Director,2,Contractor,,,,,2027-08-27,TechStaff Inc
+Kimberly Martinez,Marketing,1296,77574.65,true,2024-01-25,2025-12-08T16:53:21,kimberly.martinez@company.com,Developer,0,Contractor,,,,,2026-03-20,Elite Contractors
+Michael Perez,Engineering,1297,91333.6,true,2024-01-04,2025-12-08T16:53:21,michael.perez@company.com,Associate,2,FullTime,Premium Health,29,,,
+Christopher Jackson,Sales,1298,70533.38,true,2022-11-04,2025-12-08T16:53:21,christopher.jackson@company.com,Developer,3,Contractor,,,,,2026-04-22,Global Staffing
+Margaret Rodriguez,Operations,1299,66933.13,true,2023-11-26,2025-12-08T16:53:21,margaret.rodriguez@company.com,Director,1,FullTime,Basic Health,30,,,
+Margaret Scott,Engineering,1300,87711.81,true,2019-03-07,2025-12-08T16:53:21,margaret.scott@company.com,Associate,1,FullTime,Basic Health,28,,,
+Patricia Thompson,Operations,1301,48862.38,true,2021-09-17,2025-12-08T16:53:21,patricia.thompson@company.com,Manager,1,FullTime,Basic Health,27,,,
+John Hill,Finance,1302,48164.51,true,2021-05-09,2025-12-08T16:53:21,john.hill@company.com,Associate,3,FullTime,Standard Health,26,,,
+William Garcia,HR,1303,61016.61,false,2024-07-27,2025-12-08T16:53:21,william.garcia@company.com,Consultant,3,PartTime,,,25,18.47,,
+Michelle Thomas,HR,1304,64098.41,true,2019-02-13,2025-12-08T16:53:21,michelle.thomas@company.com,Consultant,0,Contractor,,,,,2027-06-07,Elite Contractors
+David Taylor,Operations,1305,56638.37,true,2025-04-17,2025-12-08T16:53:21,david.taylor@company.com,Developer,5,Contractor,,,,,2027-02-08,LegalPros Agency
+Paul Ramirez,Legal,1306,52349.36,false,2024-06-06,2025-12-08T16:53:21,paul.ramirez@company.com,Specialist,2,PartTime,,,24,22.32,,
+Timothy Flores,IT,1307,53258.4,true,2020-06-10,2025-12-08T16:53:21,timothy.flores@company.com,Coordinator,10,PartTime,,,34,22.7,,
+Donald Martin,Design,1308,87186.35,true,2021-07-01,2025-12-08T16:53:21,donald.martin@company.com,Coordinator,1,FullTime,Premium Health,18,,,
+Andrew Hill,Design,1309,43373.75,true,2021-07-24,2025-12-08T16:53:21,andrew.hill@company.com,Designer,10,Contractor,,,,,2026-08-31,LegalPros Agency
+Karen Torres,Finance,1310,50106.67,true,2022-05-12,2025-12-08T16:53:21,karen.torres@company.com,Analyst,9,FullTime,Standard Health,16,,,
+Ashley Gonzalez,Customer Service,1311,44814.79,true,2023-07-25,2025-12-08T16:53:21,ashley.gonzalez@company.com,Specialist,10,Contractor,,,,,2026-11-26,Global Staffing
+Mary Scott,Sales,1312,57035.62,true,2020-03-28,2025-12-08T16:53:21,mary.scott@company.com,Developer,9,Contractor,,,,,2026-11-30,Elite Contractors
+Amanda Clark,Marketing,1313,60739.62,true,2025-08-20,2025-12-08T16:53:21,amanda.clark@company.com,Director,7,PartTime,,,27,29.43,,
+Steven Moore,Sales,1314,46232.07,true,2023-05-14,2025-12-08T16:53:21,steven.moore@company.com,Analyst,3,PartTime,,,32,24.39,,
+Christopher Davis,Design,1315,91914.93,false,2025-08-28,2025-12-08T16:53:21,christopher.davis@company.com,Manager,9,Contractor,,,,,2027-06-14,Elite Contractors
+Donald Rodriguez,Operations,1316,91095.56,true,2019-05-01,2025-12-08T16:53:21,donald.rodriguez@company.com,Specialist,5,FullTime,Standard Health,15,,,
+Kevin Thompson,Design,1317,43111.14,true,2023-04-21,2025-12-08T16:53:21,kevin.thompson@company.com,Specialist,7,Contractor,,,,,2027-04-06,TechStaff Inc
+Paul Thomas,Operations,1318,47942.99,true,2022-06-22,2025-12-08T16:53:21,paul.thomas@company.com,Engineer,3,FullTime,Standard Health,26,,,
+Kevin Hill,Finance,1319,59511.05,true,2020-08-31,2025-12-08T16:53:21,kevin.hill@company.com,Director,3,PartTime,,,31,27.42,,
+Susan Martinez,Sales,1320,85629.53,true,2024-10-20,2025-12-08T16:53:21,susan.martinez@company.com,Designer,8,Contractor,,,,,2027-09-20,Elite Contractors
+Kevin Williams,Sales,1321,40494.06,true,2024-08-13,2025-12-08T16:53:21,kevin.williams@company.com,Engineer,7,Contractor,,,,,2026-09-28,Global Staffing
+Joseph Walker,Legal,1322,51615.04,true,2020-08-02,2025-12-08T16:53:21,joseph.walker@company.com,Associate,4,Contractor,,,,,2026-09-05,Elite Contractors
+Daniel Davis,Customer Service,1323,80696.13,true,2023-05-02,2025-12-08T16:53:21,daniel.davis@company.com,Director,10,Contractor,,,,,2026-06-18,LegalPros Agency
+James Taylor,IT,1324,71196.72,true,2018-12-18,2025-12-08T16:53:21,james.taylor@company.com,Engineer,9,PartTime,,,21,27.74,,
+Paul Williams,Sales,1325,84002.25,true,2024-11-18,2025-12-08T16:53:21,paul.williams@company.com,Associate,8,PartTime,,,29,29.14,,
+Karen Hernandez,Operations,1326,59850.4,true,2022-11-27,2025-12-08T16:53:21,karen.hernandez@company.com,Director,4,Contractor,,,,,2026-08-03,Elite Contractors
+Timothy Young,Finance,1327,63466.42,false,2019-02-12,2025-12-08T16:53:21,timothy.young@company.com,Manager,1,PartTime,,,21,25.46,,
+Joshua Perez,Operations,1328,79489.13,true,2023-02-20,2025-12-08T16:53:21,joshua.perez@company.com,Analyst,2,Contractor,,,,,2027-11-20,Elite Contractors
+Brian Williams,Legal,1329,90188.69,false,2021-09-13,2025-12-08T16:53:21,brian.williams@company.com,Director,0,PartTime,,,35,28.78,,
+Donald Harris,HR,1330,86838.41,true,2024-07-26,2025-12-08T16:53:21,donald.harris@company.com,Director,10,Contractor,,,,,2027-01-08,Elite Contractors
+Linda Moore,Finance,1331,80103.26,true,2022-05-29,2025-12-08T16:53:21,linda.moore@company.com,Engineer,7,FullTime,Premium Health,22,,,
+Nancy Flores,Customer Service,1332,67088.87,false,2022-04-18,2025-12-08T16:53:21,nancy.flores@company.com,Associate,9,Contractor,,,,,2027-05-16,TechStaff Inc
+David Hill,Sales,1333,61998.91,true,2023-03-03,2025-12-08T16:53:21,david.hill@company.com,Manager,3,Contractor,,,,,2026-09-09,Elite Contractors
+Mary Sanchez,Marketing,1334,48349.88,true,2025-02-24,2025-12-08T16:53:21,mary.sanchez@company.com,Engineer,7,Contractor,,,,,2027-08-26,Elite Contractors
+Daniel Nguyen,Operations,1335,53749.07,true,2018-12-16,2025-12-08T16:53:21,daniel.nguyen@company.com,Coordinator,3,FullTime,Standard Health,15,,,
+Kimberly White,HR,1336,40462.21,false,2019-12-22,2025-12-08T16:53:21,kimberly.white@company.com,Consultant,2,Contractor,,,,,2026-03-22,Elite Contractors
+Barbara Allen,Sales,1337,69735.08,true,2021-07-16,2025-12-08T16:53:21,barbara.allen@company.com,Designer,2,Contractor,,,,,2027-06-15,Global Staffing
+Donald Brown,Customer Service,1338,80210.1,true,2024-10-29,2025-12-08T16:53:21,donald.brown@company.com,Director,2,PartTime,,,30,23.18,,
+William Davis,Engineering,1339,73176.79,true,2025-01-03,2025-12-08T16:53:21,william.davis@company.com,Director,6,FullTime,Basic Health,23,,,
+Donna Clark,HR,1340,66125.56,true,2025-01-24,2025-12-08T16:53:21,donna.clark@company.com,Developer,5,Contractor,,,,,2027-04-29,LegalPros Agency
+Richard Perez,Sales,1341,77086.81,true,2023-12-01,2025-12-08T16:53:21,richard.perez@company.com,Analyst,1,FullTime,Basic Health,22,,,
+Andrew Brown,Legal,1342,59754.49,true,2021-09-11,2025-12-08T16:53:21,andrew.brown@company.com,Specialist,1,PartTime,,,21,28.37,,
+John Martin,Legal,1343,65077.43,true,2025-01-23,2025-12-08T16:53:21,john.martin@company.com,Designer,6,PartTime,,,31,18.2,,
+Michelle Smith,Customer Service,1344,63589.66,true,2022-02-05,2025-12-08T16:53:21,michelle.smith@company.com,Engineer,8,FullTime,Premium Health,28,,,
+Margaret Rodriguez,Legal,1345,62417.36,true,2020-03-30,2025-12-08T16:53:21,margaret.rodriguez@company.com,Engineer,7,Contractor,,,,,2026-11-09,LegalPros Agency
+Steven Thompson,Operations,1346,92134.98,false,2020-12-24,2025-12-08T16:53:21,steven.thompson@company.com,Manager,7,Contractor,,,,,2027-01-24,Global Staffing
+Richard Wright,HR,1347,82509.37,true,2021-08-03,2025-12-08T16:53:21,richard.wright@company.com,Director,9,Contractor,,,,,2027-07-21,Global Staffing
+Barbara Hill,IT,1348,44875.44,true,2022-04-03,2025-12-08T16:53:21,barbara.hill@company.com,Manager,1,Contractor,,,,,2026-10-08,Elite Contractors
+Robert Ramirez,IT,1349,69813.63,true,2025-10-29,2025-12-08T16:53:21,robert.ramirez@company.com,Consultant,4,FullTime,Standard Health,17,,,
+Lisa Thomas,IT,1350,65956.09,true,2020-11-20,2025-12-08T16:53:21,lisa.thomas@company.com,Manager,4,Contractor,,,,,2027-11-11,LegalPros Agency
+Karen Gonzalez,HR,1351,86269.8,true,2019-12-12,2025-12-08T16:53:21,karen.gonzalez@company.com,Consultant,3,FullTime,Standard Health,23,,,
+Amanda Lopez,Sales,1352,48764.73,true,2023-02-04,2025-12-08T16:53:21,amanda.lopez@company.com,Specialist,9,FullTime,Premium Health,21,,,
+Paul Jackson,Marketing,1353,74250.56,true,2025-01-04,2025-12-08T16:53:21,paul.jackson@company.com,Analyst,3,Contractor,,,,,2027-07-23,LegalPros Agency
+Kimberly Jones,IT,1354,70266.98,true,2024-11-19,2025-12-08T16:53:21,kimberly.jones@company.com,Coordinator,10,Contractor,,,,,2026-08-16,TechStaff Inc
+Matthew Young,IT,1355,60487.27,true,2024-12-27,2025-12-08T16:53:21,matthew.young@company.com,Coordinator,1,FullTime,Premium Health,28,,,
+Kenneth Miller,Customer Service,1356,43317.71,false,2021-08-07,2025-12-08T16:53:21,kenneth.miller@company.com,Coordinator,2,FullTime,Basic Health,23,,,
+Nancy Davis,Finance,1357,80898.09,false,2024-05-30,2025-12-08T16:53:21,nancy.davis@company.com,Manager,9,FullTime,Premium Health,18,,,
+Susan Hernandez,Sales,1358,94972.87,true,2025-11-03,2025-12-08T16:53:21,susan.hernandez@company.com,Engineer,2,Contractor,,,,,2026-08-24,Elite Contractors
+Michelle Thomas,Legal,1359,80160.89,false,2024-02-10,2025-12-08T16:53:21,michelle.thomas@company.com,Associate,2,FullTime,Basic Health,27,,,
+Joseph Rodriguez,IT,1360,70927.62,true,2019-02-08,2025-12-08T16:53:21,joseph.rodriguez@company.com,Director,2,FullTime,Standard Health,16,,,
+Richard Lee,Design,1361,70251.47,true,2025-04-07,2025-12-08T16:53:21,richard.lee@company.com,Manager,9,PartTime,,,28,28.93,,
+Michael Robinson,Sales,1362,47590.14,false,2022-09-19,2025-12-08T16:53:21,michael.robinson@company.com,Developer,9,PartTime,,,18,24.47,,
+Steven Ramirez,Marketing,1363,89757.52,true,2019-07-09,2025-12-08T16:53:21,steven.ramirez@company.com,Coordinator,3,PartTime,,,24,26.13,,
+Emily Anderson,Operations,1364,68978.66,true,2025-08-08,2025-12-08T16:53:21,emily.anderson@company.com,Coordinator,2,FullTime,Standard Health,16,,,
+Kevin Perez,Operations,1365,67314.78,true,2022-07-16,2025-12-08T16:53:21,kevin.perez@company.com,Analyst,10,FullTime,Basic Health,27,,,
+Brian Wright,Operations,1366,78441.61,false,2021-10-03,2025-12-08T16:53:21,brian.wright@company.com,Coordinator,4,Contractor,,,,,2026-03-23,Global Staffing
+Matthew Nguyen,IT,1367,66694.75,true,2021-03-08,2025-12-08T16:53:21,matthew.nguyen@company.com,Analyst,2,Contractor,,,,,2026-10-07,Global Staffing
+John Miller,HR,1368,49585.89,true,2025-03-17,2025-12-08T16:53:21,john.miller@company.com,Developer,4,FullTime,Premium Health,25,,,
+Paul Thompson,Engineering,1369,65575.43,true,2024-12-03,2025-12-08T16:53:21,paul.thompson@company.com,Designer,10,Contractor,,,,,2027-09-27,LegalPros Agency
+Jennifer Davis,Operations,1370,90354.64,true,2025-06-17,2025-12-08T16:53:21,jennifer.davis@company.com,Specialist,10,Contractor,,,,,2027-02-28,Global Staffing
+Jessica Jackson,Marketing,1371,40377.26,true,2024-02-10,2025-12-08T16:53:21,jessica.jackson@company.com,Associate,1,Contractor,,,,,2026-12-29,Elite Contractors
+Nancy Miller,HR,1372,49129.38,true,2024-01-17,2025-12-08T16:53:21,nancy.miller@company.com,Designer,7,PartTime,,,35,29.25,,
+Margaret Johnson,Engineering,1373,90205.29,true,2023-06-15,2025-12-08T16:53:21,margaret.johnson@company.com,Coordinator,0,FullTime,Standard Health,22,,,
+Sarah Martin,Marketing,1374,60644.17,false,2020-09-01,2025-12-08T16:53:21,sarah.martin@company.com,Associate,5,Contractor,,,,,2027-07-24,TechStaff Inc
+Karen Ramirez,Engineering,1375,76216.81,true,2022-09-16,2025-12-08T16:53:21,karen.ramirez@company.com,Specialist,2,PartTime,,,21,18.74,,
+Emily Harris,Sales,1376,58549.98,true,2019-12-17,2025-12-08T16:53:21,emily.harris@company.com,Designer,8,FullTime,Premium Health,29,,,
+Brian King,IT,1377,82369.0,true,2023-04-05,2025-12-08T16:53:21,brian.king@company.com,Specialist,6,FullTime,Standard Health,22,,,
+John Davis,Legal,1378,43946.0,false,2023-05-03,2025-12-08T16:53:21,john.davis@company.com,Manager,0,FullTime,Premium Health,30,,,
+Kimberly Wright,Operations,1379,74151.34,true,2022-10-08,2025-12-08T16:53:21,kimberly.wright@company.com,Consultant,7,PartTime,,,26,19.13,,
+Donna Harris,Finance,1380,89874.82,true,2021-12-24,2025-12-08T16:53:21,donna.harris@company.com,Manager,6,PartTime,,,34,29.72,,
+Ashley Anderson,Marketing,1381,78739.53,true,2021-04-14,2025-12-08T16:53:21,ashley.anderson@company.com,Specialist,4,Contractor,,,,,2026-06-15,LegalPros Agency
+Joshua Allen,Engineering,1382,70787.36,true,2025-06-05,2025-12-08T16:53:21,joshua.allen@company.com,Manager,4,FullTime,Premium Health,15,,,
+Emily Lopez,Operations,1383,77093.99,true,2021-12-13,2025-12-08T16:53:21,emily.lopez@company.com,Consultant,0,Contractor,,,,,2027-05-10,TechStaff Inc
+Emily Torres,HR,1384,53597.38,true,2023-10-16,2025-12-08T16:53:21,emily.torres@company.com,Associate,8,PartTime,,,24,19.66,,
+Karen Jackson,Design,1385,61577.1,true,2024-07-08,2025-12-08T16:53:21,karen.jackson@company.com,Associate,3,FullTime,Standard Health,24,,,
+Sandra Hernandez,Engineering,1386,61974.38,true,2024-07-21,2025-12-08T16:53:21,sandra.hernandez@company.com,Designer,1,PartTime,,,35,29.57,,
+Charles Miller,Customer Service,1387,64859.13,true,2020-11-12,2025-12-08T16:53:21,charles.miller@company.com,Associate,4,FullTime,Premium Health,17,,,
+Anthony Wilson,IT,1388,56385.55,true,2020-04-22,2025-12-08T16:53:21,anthony.wilson@company.com,Specialist,0,Contractor,,,,,2026-03-25,Elite Contractors
+Carol King,HR,1389,87437.12,true,2024-08-19,2025-12-08T16:53:21,carol.king@company.com,Coordinator,2,PartTime,,,29,24.55,,
+Richard Walker,Design,1390,94804.48,false,2022-09-09,2025-12-08T16:53:21,richard.walker@company.com,Coordinator,10,FullTime,Standard Health,20,,,
+Matthew White,Marketing,1391,60145.64,false,2024-01-08,2025-12-08T16:53:21,matthew.white@company.com,Specialist,3,Contractor,,,,,2026-08-10,Elite Contractors
+Kenneth Hill,Engineering,1392,74092.33,false,2019-10-21,2025-12-08T16:53:21,kenneth.hill@company.com,Specialist,6,Contractor,,,,,2027-06-19,LegalPros Agency
+Karen Flores,IT,1393,71289.93,true,2020-01-23,2025-12-08T16:53:21,karen.flores@company.com,Associate,2,PartTime,,,23,21.37,,
+Kevin Taylor,Customer Service,1394,52259.57,true,2025-06-17,2025-12-08T16:53:21,kevin.taylor@company.com,Specialist,6,FullTime,Premium Health,29,,,
+Christopher Wright,Finance,1395,90353.79,true,2019-04-18,2025-12-08T16:53:21,christopher.wright@company.com,Coordinator,4,PartTime,,,30,23.75,,
+Melissa White,Design,1396,66333.0,true,2025-07-23,2025-12-08T16:53:21,melissa.white@company.com,Specialist,8,PartTime,,,35,21.57,,
+Michael Taylor,Marketing,1397,61743.95,true,2024-12-24,2025-12-08T16:53:21,michael.taylor@company.com,Associate,3,Contractor,,,,,2026-06-14,LegalPros Agency
+Mark Lopez,Customer Service,1398,81447.99,true,2024-04-27,2025-12-08T16:53:21,mark.lopez@company.com,Specialist,1,Contractor,,,,,2027-04-14,Global Staffing
+Thomas Williams,Sales,1399,54960.78,false,2020-06-23,2025-12-08T16:53:21,thomas.williams@company.com,Developer,3,FullTime,Standard Health,15,,,
+Richard Lee,Legal,1400,86022.14,true,2024-11-26,2025-12-08T16:53:21,richard.lee@company.com,Developer,6,Contractor,,,,,2027-03-21,Elite Contractors
+Elizabeth Walker,Customer Service,1401,62742.65,false,2023-08-26,2025-12-08T16:53:21,elizabeth.walker@company.com,Director,10,Contractor,,,,,2027-03-22,LegalPros Agency
+Carol Flores,Engineering,1402,58440.7,true,2019-04-25,2025-12-08T16:53:21,carol.flores@company.com,Director,1,Contractor,,,,,2027-03-11,Elite Contractors
+Charles Gonzalez,Finance,1403,63773.7,true,2019-11-02,2025-12-08T16:53:21,charles.gonzalez@company.com,Consultant,3,PartTime,,,33,23.27,,
+Brian Hill,Customer Service,1404,83284.97,false,2022-12-13,2025-12-08T16:53:21,brian.hill@company.com,Consultant,1,FullTime,Basic Health,25,,,
+James Wright,Engineering,1405,48889.77,false,2020-06-16,2025-12-08T16:53:21,james.wright@company.com,Associate,2,FullTime,Standard Health,17,,,
+Emily Rodriguez,Engineering,1406,65337.12,true,2023-06-12,2025-12-08T16:53:21,emily.rodriguez@company.com,Designer,8,Contractor,,,,,2026-09-08,TechStaff Inc
+Ashley Hernandez,Marketing,1407,62211.15,false,2023-12-05,2025-12-08T16:53:21,ashley.hernandez@company.com,Analyst,0,Contractor,,,,,2026-07-25,TechStaff Inc
+Betty White,Design,1408,54698.07,true,2020-03-22,2025-12-08T16:53:21,betty.white@company.com,Analyst,0,Contractor,,,,,2027-03-01,TechStaff Inc
+Barbara King,IT,1409,82594.99,true,2023-10-03,2025-12-08T16:53:21,barbara.king@company.com,Developer,7,Contractor,,,,,2026-06-29,Global Staffing
+Emily Jones,Engineering,1410,43123.71,true,2019-08-27,2025-12-08T16:53:21,emily.jones@company.com,Engineer,10,FullTime,Basic Health,24,,,
+Dorothy Jackson,Finance,1411,83237.44,true,2022-11-13,2025-12-08T16:53:21,dorothy.jackson@company.com,Manager,4,Contractor,,,,,2027-09-13,LegalPros Agency
+Susan Jones,Engineering,1412,85276.01,true,2024-07-15,2025-12-08T16:53:21,susan.jones@company.com,Consultant,7,PartTime,,,30,19.71,,
+Kevin Brown,Marketing,1413,94018.03,true,2020-08-10,2025-12-08T16:53:21,kevin.brown@company.com,Engineer,7,FullTime,Premium Health,29,,,
+Emily Walker,Sales,1414,89497.28,true,2021-06-15,2025-12-08T16:53:21,emily.walker@company.com,Specialist,4,Contractor,,,,,2026-10-21,TechStaff Inc
+Thomas Rodriguez,Sales,1415,40178.97,true,2024-12-15,2025-12-08T16:53:21,thomas.rodriguez@company.com,Manager,5,PartTime,,,32,27.35,,
+Amanda Williams,Legal,1416,40842.45,true,2025-02-24,2025-12-08T16:53:21,amanda.williams@company.com,Consultant,5,PartTime,,,22,22.73,,
+Karen Jackson,HR,1417,70368.39,true,2020-02-05,2025-12-08T16:53:21,karen.jackson@company.com,Director,2,Contractor,,,,,2027-10-03,LegalPros Agency
+Betty Wilson,Legal,1418,91873.3,true,2024-11-24,2025-12-08T16:53:21,betty.wilson@company.com,Manager,2,Contractor,,,,,2027-11-25,TechStaff Inc
+Christopher Davis,Legal,1419,69732.56,true,2025-12-03,2025-12-08T16:53:21,christopher.davis@company.com,Developer,2,Contractor,,,,,2027-11-21,Elite Contractors
+Kimberly Lee,Operations,1420,56948.5,true,2024-12-10,2025-12-08T16:53:21,kimberly.lee@company.com,Consultant,5,PartTime,,,34,21.42,,
+Joseph Torres,Finance,1421,50012.97,true,2020-11-07,2025-12-08T16:53:21,joseph.torres@company.com,Manager,8,FullTime,Premium Health,28,,,
+Michael Garcia,Marketing,1422,57831.77,true,2024-05-13,2025-12-08T16:53:21,michael.garcia@company.com,Analyst,10,FullTime,Premium Health,20,,,
+Thomas Jones,Design,1423,86051.57,true,2025-01-05,2025-12-08T16:53:21,thomas.jones@company.com,Specialist,3,PartTime,,,24,20.89,,
+Sarah Young,Operations,1424,92146.18,true,2025-01-11,2025-12-08T16:53:21,sarah.young@company.com,Coordinator,9,FullTime,Standard Health,17,,,
+Emily Nguyen,IT,1425,78977.74,true,2022-11-07,2025-12-08T16:53:21,emily.nguyen@company.com,Consultant,7,Contractor,,,,,2027-08-01,TechStaff Inc
+Michael Ramirez,Customer Service,1426,80777.5,true,2019-07-06,2025-12-08T16:53:21,michael.ramirez@company.com,Manager,0,PartTime,,,32,19.01,,
+William Hernandez,Operations,1427,74604.37,true,2021-09-14,2025-12-08T16:53:21,william.hernandez@company.com,Coordinator,9,PartTime,,,33,28.09,,
+Steven Perez,Sales,1428,85077.3,true,2024-11-04,2025-12-08T16:53:21,steven.perez@company.com,Associate,2,PartTime,,,30,29.74,,
+Thomas Wright,Legal,1429,85294.62,true,2022-06-07,2025-12-08T16:53:21,thomas.wright@company.com,Engineer,5,Contractor,,,,,2027-07-21,TechStaff Inc
+Joshua Martinez,Design,1430,56507.74,true,2024-02-18,2025-12-08T16:53:21,joshua.martinez@company.com,Consultant,1,PartTime,,,19,23.49,,
+Amanda Torres,Legal,1431,73568.04,false,2019-04-28,2025-12-08T16:53:21,amanda.torres@company.com,Developer,6,Contractor,,,,,2026-08-29,Global Staffing
+Deborah White,Customer Service,1432,85692.58,true,2020-04-07,2025-12-08T16:53:21,deborah.white@company.com,Consultant,5,PartTime,,,17,26.69,,
+Margaret Gonzalez,Customer Service,1433,60806.67,true,2022-02-06,2025-12-08T16:53:21,margaret.gonzalez@company.com,Specialist,3,FullTime,Basic Health,30,,,
+Thomas Scott,Engineering,1434,82966.82,true,2019-01-07,2025-12-08T16:53:21,thomas.scott@company.com,Analyst,8,PartTime,,,19,26.2,,
+Christopher Walker,Legal,1435,61394.97,true,2023-02-02,2025-12-08T16:53:21,christopher.walker@company.com,Associate,9,FullTime,Basic Health,27,,,
+Kevin Garcia,Marketing,1436,43775.96,false,2025-05-20,2025-12-08T16:53:21,kevin.garcia@company.com,Analyst,0,Contractor,,,,,2027-11-19,Global Staffing
+Mark Thompson,Sales,1437,93791.47,true,2022-03-11,2025-12-08T16:53:21,mark.thompson@company.com,Associate,0,PartTime,,,30,29.1,,
+Mark Scott,Engineering,1438,81809.11,true,2025-07-02,2025-12-08T16:53:21,mark.scott@company.com,Manager,1,PartTime,,,25,23.67,,
+Mark Thomas,Engineering,1439,62403.53,false,2021-03-19,2025-12-08T16:53:21,mark.thomas@company.com,Associate,3,Contractor,,,,,2027-05-26,Global Staffing
+Susan Smith,Engineering,1440,60026.32,true,2019-01-22,2025-12-08T16:53:21,susan.smith@company.com,Engineer,9,Contractor,,,,,2026-04-17,LegalPros Agency
+Susan Taylor,Legal,1441,51973.18,true,2022-06-04,2025-12-08T16:53:21,susan.taylor@company.com,Consultant,4,Contractor,,,,,2027-11-16,LegalPros Agency
+Matthew Jones,HR,1442,68707.92,false,2020-10-14,2025-12-08T16:53:21,matthew.jones@company.com,Developer,5,PartTime,,,22,23.22,,
+Timothy Brown,Engineering,1443,53270.74,true,2020-12-24,2025-12-08T16:53:21,timothy.brown@company.com,Developer,5,PartTime,,,29,27.71,,
+Richard Walker,Operations,1444,87298.93,false,2023-07-25,2025-12-08T16:53:21,richard.walker@company.com,Engineer,9,Contractor,,,,,2026-10-10,TechStaff Inc
+Sarah Clark,Operations,1445,89780.89,true,2019-08-12,2025-12-08T16:53:21,sarah.clark@company.com,Manager,8,Contractor,,,,,2026-11-08,Global Staffing
+Steven Davis,Design,1446,91047.32,true,2025-05-10,2025-12-08T16:53:21,steven.davis@company.com,Coordinator,10,FullTime,Premium Health,20,,,
+Sarah Hill,Customer Service,1447,52351.54,true,2022-08-15,2025-12-08T16:53:21,sarah.hill@company.com,Analyst,0,Contractor,,,,,2026-11-04,TechStaff Inc
+Mark Garcia,Sales,1448,48105.47,true,2025-07-11,2025-12-08T16:53:21,mark.garcia@company.com,Associate,8,PartTime,,,16,22.97,,
+Jessica Thompson,Finance,1449,81200.52,true,2022-05-22,2025-12-08T16:53:21,jessica.thompson@company.com,Developer,5,FullTime,Standard Health,30,,,
+Sandra Lopez,Customer Service,1450,66063.93,false,2021-10-28,2025-12-08T16:53:21,sandra.lopez@company.com,Analyst,9,PartTime,,,15,28.74,,
+Richard Flores,Marketing,1451,43102.77,false,2025-12-04,2025-12-08T16:53:21,richard.flores@company.com,Analyst,7,FullTime,Standard Health,22,,,
+Nancy Miller,Customer Service,1452,68493.07,true,2020-01-25,2025-12-08T16:53:21,nancy.miller@company.com,Specialist,10,Contractor,,,,,2027-06-20,LegalPros Agency
+Andrew Rodriguez,Legal,1453,67980.63,true,2024-04-24,2025-12-08T16:53:21,andrew.rodriguez@company.com,Manager,7,Contractor,,,,,2026-09-08,LegalPros Agency
+George Williams,Operations,1454,62846.95,false,2024-06-04,2025-12-08T16:53:21,george.williams@company.com,Designer,7,Contractor,,,,,2026-10-25,LegalPros Agency
+Nancy Robinson,Finance,1455,81209.19,true,2023-02-21,2025-12-08T16:53:21,nancy.robinson@company.com,Designer,4,Contractor,,,,,2027-03-21,Elite Contractors
+Matthew Hernandez,Customer Service,1456,62477.4,true,2020-03-31,2025-12-08T16:53:21,matthew.hernandez@company.com,Engineer,3,Contractor,,,,,2026-09-24,LegalPros Agency
+Brian Moore,Engineering,1457,64991.49,true,2023-01-14,2025-12-08T16:53:21,brian.moore@company.com,Coordinator,4,PartTime,,,22,22.35,,
+James Scott,Sales,1458,92608.94,true,2023-06-17,2025-12-08T16:53:21,james.scott@company.com,Engineer,9,FullTime,Basic Health,21,,,
+James Hill,HR,1459,89649.35,true,2020-03-04,2025-12-08T16:53:21,james.hill@company.com,Consultant,9,PartTime,,,17,24.39,,
+George Flores,Operations,1460,43880.49,true,2025-07-08,2025-12-08T16:53:21,george.flores@company.com,Analyst,2,Contractor,,,,,2027-01-09,LegalPros Agency
+Mary Anderson,Legal,1461,53146.58,true,2019-08-11,2025-12-08T16:53:21,mary.anderson@company.com,Manager,5,FullTime,Standard Health,24,,,
+Dorothy King,HR,1462,41942.48,true,2025-11-26,2025-12-08T16:53:21,dorothy.king@company.com,Consultant,8,Contractor,,,,,2027-10-17,TechStaff Inc
+Matthew Wilson,IT,1463,61777.96,false,2020-06-12,2025-12-08T16:53:21,matthew.wilson@company.com,Consultant,7,PartTime,,,29,22.29,,
+Nancy Johnson,Finance,1464,87445.56,true,2019-09-20,2025-12-08T16:53:21,nancy.johnson@company.com,Manager,3,PartTime,,,31,27.55,,
+John Lewis,Design,1465,77499.0,true,2021-11-07,2025-12-08T16:53:21,john.lewis@company.com,Analyst,1,FullTime,Standard Health,15,,,
+Daniel Moore,Engineering,1466,68954.83,true,2022-04-11,2025-12-08T16:53:21,daniel.moore@company.com,Engineer,9,FullTime,Basic Health,20,,,
+Mary Hill,Engineering,1467,45500.3,true,2022-04-20,2025-12-08T16:53:21,mary.hill@company.com,Manager,2,PartTime,,,22,29.87,,
+Daniel Rodriguez,Customer Service,1468,82806.51,true,2024-04-17,2025-12-08T16:53:21,daniel.rodriguez@company.com,Engineer,9,PartTime,,,27,24.25,,
+Daniel Nguyen,Sales,1469,64976.61,true,2022-02-07,2025-12-08T16:53:21,daniel.nguyen@company.com,Engineer,1,PartTime,,,22,26.04,,
+Joshua Robinson,HR,1470,43710.19,false,2024-12-17,2025-12-08T16:53:21,joshua.robinson@company.com,Associate,6,FullTime,Premium Health,25,,,
+Christopher Miller,Customer Service,1471,92391.15,true,2020-12-02,2025-12-08T16:53:21,christopher.miller@company.com,Developer,2,Contractor,,,,,2027-05-08,TechStaff Inc
+Robert Moore,Sales,1472,43534.79,true,2020-01-03,2025-12-08T16:53:21,robert.moore@company.com,Analyst,2,FullTime,Basic Health,19,,,
+Daniel Moore,Legal,1473,73754.31,true,2023-11-13,2025-12-08T16:53:21,daniel.moore@company.com,Consultant,8,FullTime,Standard Health,24,,,
+Matthew King,IT,1474,55828.17,false,2022-06-13,2025-12-08T16:53:21,matthew.king@company.com,Developer,10,FullTime,Premium Health,28,,,
+Matthew Walker,Design,1475,94208.46,true,2020-09-24,2025-12-08T16:53:21,matthew.walker@company.com,Associate,10,FullTime,Premium Health,19,,,
+Matthew Johnson,Marketing,1476,78290.71,true,2024-08-18,2025-12-08T16:53:21,matthew.johnson@company.com,Analyst,8,PartTime,,,30,25.73,,
+Steven Wright,Sales,1477,71257.75,true,2023-02-04,2025-12-08T16:53:21,steven.wright@company.com,Developer,1,FullTime,Basic Health,17,,,
+John Allen,Finance,1478,78104.44,false,2022-11-18,2025-12-08T16:53:21,john.allen@company.com,Developer,3,Contractor,,,,,2027-03-20,LegalPros Agency
+Deborah Wright,Legal,1479,46092.63,true,2025-04-24,2025-12-08T16:53:21,deborah.wright@company.com,Director,4,PartTime,,,27,25.19,,
+Brian Hernandez,Design,1480,82660.34,false,2019-04-13,2025-12-08T16:53:21,brian.hernandez@company.com,Manager,10,FullTime,Premium Health,19,,,
+Mary Hill,Engineering,1481,79539.89,false,2022-06-27,2025-12-08T16:53:21,mary.hill@company.com,Associate,4,PartTime,,,20,20.94,,
+Elizabeth Brown,Sales,1482,66056.56,true,2023-11-04,2025-12-08T16:53:21,elizabeth.brown@company.com,Director,6,FullTime,Basic Health,28,,,
+Richard Thompson,Legal,1483,42807.37,true,2024-11-05,2025-12-08T16:53:21,richard.thompson@company.com,Designer,6,FullTime,Basic Health,25,,,
+Elizabeth Williams,Engineering,1484,63989.0,true,2025-11-06,2025-12-08T16:53:21,elizabeth.williams@company.com,Specialist,6,Contractor,,,,,2026-06-18,Elite Contractors
+Andrew Scott,Customer Service,1485,76960.66,false,2025-11-02,2025-12-08T16:53:21,andrew.scott@company.com,Consultant,7,FullTime,Basic Health,29,,,
+Daniel Gonzalez,Engineering,1486,57515.09,false,2025-07-28,2025-12-08T16:53:21,daniel.gonzalez@company.com,Analyst,10,PartTime,,,16,26.31,,
+Karen Perez,Operations,1487,89411.58,true,2025-12-01,2025-12-08T16:53:21,karen.perez@company.com,Engineer,2,PartTime,,,27,28.53,,
+Michael Smith,Finance,1488,57045.71,true,2021-03-14,2025-12-08T16:53:21,michael.smith@company.com,Designer,10,FullTime,Premium Health,20,,,
+Mark Young,Finance,1489,58705.62,true,2023-06-23,2025-12-08T16:53:21,mark.young@company.com,Coordinator,4,PartTime,,,17,28.8,,
+Matthew Young,Marketing,1490,80462.39,true,2023-12-07,2025-12-08T16:53:21,matthew.young@company.com,Manager,1,PartTime,,,19,27.61,,
+Amanda Sanchez,Finance,1491,73951.54,true,2020-01-18,2025-12-08T16:53:21,amanda.sanchez@company.com,Designer,7,FullTime,Premium Health,21,,,
+Mary Gonzalez,Marketing,1492,48777.1,true,2021-06-01,2025-12-08T16:53:21,mary.gonzalez@company.com,Developer,7,PartTime,,,30,27.74,,
+Donna Ramirez,Design,1493,66209.04,true,2023-04-16,2025-12-08T16:53:21,donna.ramirez@company.com,Developer,5,PartTime,,,35,27.04,,
+Robert Anderson,Sales,1494,83327.39,true,2020-09-02,2025-12-08T16:53:21,robert.anderson@company.com,Specialist,1,PartTime,,,25,24.53,,
+Carol Perez,Engineering,1495,53695.59,true,2019-07-29,2025-12-08T16:53:21,carol.perez@company.com,Consultant,6,FullTime,Standard Health,23,,,
+Timothy Thompson,IT,1496,69045.07,true,2023-05-26,2025-12-08T16:53:21,timothy.thompson@company.com,Manager,4,FullTime,Standard Health,30,,,
+Emily Thomas,Customer Service,1497,66131.42,true,2021-09-27,2025-12-08T16:53:21,emily.thomas@company.com,Coordinator,0,FullTime,Premium Health,27,,,
+Karen Harris,Marketing,1498,46984.71,false,2025-02-28,2025-12-08T16:53:21,karen.harris@company.com,Engineer,4,Contractor,,,,,2026-03-19,LegalPros Agency
+Richard Scott,Operations,1499,65951.94,true,2024-03-11,2025-12-08T16:53:21,richard.scott@company.com,Analyst,3,FullTime,Basic Health,25,,,
+Michelle Robinson,Customer Service,1500,61339.46,true,2019-05-25,2025-12-08T16:53:21,michelle.robinson@company.com,Engineer,5,FullTime,Premium Health,23,,,
+Joshua Jackson,Finance,1501,46535.95,true,2021-04-08,2025-12-08T16:53:21,joshua.jackson@company.com,Designer,5,Contractor,,,,,2026-12-07,LegalPros Agency
+Jessica Lopez,Marketing,1502,66120.9,false,2020-12-20,2025-12-08T16:53:21,jessica.lopez@company.com,Coordinator,9,FullTime,Standard Health,19,,,
+Deborah Jackson,Finance,1503,59402.3,true,2020-01-01,2025-12-08T16:53:21,deborah.jackson@company.com,Director,3,PartTime,,,27,22.05,,
+Anthony Gonzalez,Customer Service,1504,79966.9,true,2024-05-24,2025-12-08T16:53:21,anthony.gonzalez@company.com,Associate,4,PartTime,,,22,19.85,,
+Daniel Ramirez,Engineering,1505,60505.34,true,2022-01-30,2025-12-08T16:53:21,daniel.ramirez@company.com,Manager,4,FullTime,Standard Health,21,,,
+William Garcia,Finance,1506,83620.72,true,2019-11-22,2025-12-08T16:53:21,william.garcia@company.com,Manager,5,PartTime,,,33,22.82,,
+Matthew Davis,Engineering,1507,59768.25,true,2019-09-07,2025-12-08T16:53:21,matthew.davis@company.com,Analyst,4,PartTime,,,32,21.77,,
+Linda Miller,IT,1508,93641.3,true,2020-05-28,2025-12-08T16:53:21,linda.miller@company.com,Analyst,7,FullTime,Standard Health,29,,,
+Deborah Smith,Legal,1509,71413.39,true,2019-06-26,2025-12-08T16:53:21,deborah.smith@company.com,Developer,1,FullTime,Basic Health,25,,,
+Betty Wright,Finance,1510,87986.7,true,2021-05-13,2025-12-08T16:53:21,betty.wright@company.com,Analyst,4,Contractor,,,,,2027-04-09,Global Staffing
+Charles Thompson,IT,1511,89821.0,true,2022-10-13,2025-12-08T16:53:21,charles.thompson@company.com,Developer,3,Contractor,,,,,2026-06-20,Elite Contractors
+George Perez,Sales,1512,44931.5,false,2019-12-13,2025-12-08T16:53:21,george.perez@company.com,Coordinator,5,PartTime,,,33,21.39,,
+Sarah Allen,Engineering,1513,50903.73,true,2019-06-01,2025-12-08T16:53:21,sarah.allen@company.com,Analyst,9,PartTime,,,29,24.02,,
+Dorothy Harris,Design,1514,61431.08,true,2023-08-02,2025-12-08T16:53:21,dorothy.harris@company.com,Coordinator,1,Contractor,,,,,2026-10-27,Global Staffing
+Mark Sanchez,HR,1515,61636.41,false,2019-04-05,2025-12-08T16:53:21,mark.sanchez@company.com,Consultant,9,PartTime,,,23,22.98,,
+Deborah Wright,Sales,1516,86545.45,true,2025-11-08,2025-12-08T16:53:21,deborah.wright@company.com,Specialist,7,FullTime,Premium Health,28,,,
+Mary Lopez,Legal,1517,70979.05,true,2024-05-10,2025-12-08T16:53:21,mary.lopez@company.com,Developer,10,Contractor,,,,,2026-03-24,Global Staffing
+Brian Martinez,Legal,1518,84915.68,true,2025-06-30,2025-12-08T16:53:21,brian.martinez@company.com,Consultant,0,PartTime,,,35,22.74,,
+Emily Gonzalez,Legal,1519,93643.23,true,2021-05-12,2025-12-08T16:53:21,emily.gonzalez@company.com,Designer,7,PartTime,,,17,23.21,,
+Donna Davis,Finance,1520,80402.24,false,2024-06-25,2025-12-08T16:53:21,donna.davis@company.com,Engineer,6,FullTime,Premium Health,28,,,
+Joseph Brown,Operations,1521,59699.45,true,2021-08-28,2025-12-08T16:53:21,joseph.brown@company.com,Designer,8,Contractor,,,,,2027-05-27,LegalPros Agency
+James Johnson,HR,1522,43299.36,true,2019-06-04,2025-12-08T16:53:21,james.johnson@company.com,Analyst,2,FullTime,Standard Health,16,,,
+George Taylor,Operations,1523,44935.86,true,2023-09-19,2025-12-08T16:53:21,george.taylor@company.com,Designer,7,PartTime,,,19,26.45,,
+Melissa Lopez,Design,1524,78810.66,true,2020-08-27,2025-12-08T16:53:21,melissa.lopez@company.com,Manager,10,PartTime,,,20,22.74,,
+William Thompson,Legal,1525,44806.67,true,2024-05-25,2025-12-08T16:53:21,william.thompson@company.com,Specialist,3,FullTime,Standard Health,28,,,
+Joshua Brown,Design,1526,82943.04,true,2024-05-02,2025-12-08T16:53:21,joshua.brown@company.com,Developer,5,PartTime,,,29,27.05,,
+Daniel Jones,IT,1527,73878.21,true,2022-03-11,2025-12-08T16:53:21,daniel.jones@company.com,Coordinator,0,FullTime,Standard Health,23,,,
+Linda Miller,Customer Service,1528,50115.73,true,2023-11-11,2025-12-08T16:53:21,linda.miller@company.com,Analyst,2,PartTime,,,24,28.42,,
+Mark Young,IT,1529,57842.21,false,2021-08-25,2025-12-08T16:53:21,mark.young@company.com,Consultant,3,PartTime,,,30,26.69,,
+Mary Rodriguez,IT,1530,83373.77,false,2022-11-13,2025-12-08T16:53:21,mary.rodriguez@company.com,Designer,5,Contractor,,,,,2026-06-15,Global Staffing
+Sarah Martinez,HR,1531,80945.48,true,2022-01-24,2025-12-08T16:53:21,sarah.martinez@company.com,Associate,1,Contractor,,,,,2027-05-20,TechStaff Inc
+Joshua Nguyen,Engineering,1532,59499.96,true,2021-02-06,2025-12-08T16:53:21,joshua.nguyen@company.com,Associate,10,Contractor,,,,,2026-06-02,Global Staffing
+James Williams,Operations,1533,44676.8,true,2025-03-24,2025-12-08T16:53:21,james.williams@company.com,Analyst,10,Contractor,,,,,2026-12-24,Global Staffing
+Michael Thompson,Legal,1534,82862.7,true,2022-07-07,2025-12-08T16:53:21,michael.thompson@company.com,Director,0,PartTime,,,18,21.23,,
+William Perez,Operations,1535,63292.84,false,2020-01-27,2025-12-08T16:53:21,william.perez@company.com,Designer,4,PartTime,,,22,22.5,,
+Melissa Sanchez,IT,1536,93225.84,true,2019-10-18,2025-12-08T16:53:21,melissa.sanchez@company.com,Developer,0,PartTime,,,21,20.35,,
+Jessica Taylor,Engineering,1537,89104.72,true,2024-04-22,2025-12-08T16:53:21,jessica.taylor@company.com,Coordinator,9,Contractor,,,,,2026-06-11,TechStaff Inc
+Nancy Lee,Customer Service,1538,85577.76,true,2024-08-22,2025-12-08T16:53:21,nancy.lee@company.com,Engineer,1,FullTime,Standard Health,30,,,
+Nancy Rodriguez,Marketing,1539,65162.68,true,2024-05-12,2025-12-08T16:53:21,nancy.rodriguez@company.com,Manager,8,FullTime,Basic Health,26,,,
+Andrew Martin,Engineering,1540,79690.25,true,2025-11-12,2025-12-08T16:53:21,andrew.martin@company.com,Consultant,9,FullTime,Standard Health,18,,,
+Nancy Martin,Customer Service,1541,48061.79,true,2022-03-17,2025-12-08T16:53:21,nancy.martin@company.com,Consultant,4,PartTime,,,26,21.66,,
+Robert Jones,Finance,1542,75776.63,true,2021-10-11,2025-12-08T16:53:21,robert.jones@company.com,Associate,2,FullTime,Standard Health,24,,,
+Lisa Harris,Finance,1543,48638.75,true,2021-12-24,2025-12-08T16:53:21,lisa.harris@company.com,Engineer,5,Contractor,,,,,2027-05-15,TechStaff Inc
+Sandra Robinson,Customer Service,1544,75184.73,true,2023-11-25,2025-12-08T16:53:21,sandra.robinson@company.com,Engineer,2,FullTime,Standard Health,28,,,
+Robert Martin,Finance,1545,85476.21,true,2024-01-18,2025-12-08T16:53:21,robert.martin@company.com,Specialist,3,Contractor,,,,,2027-07-09,LegalPros Agency
+David Brown,Operations,1546,44397.19,true,2022-12-09,2025-12-08T16:53:21,david.brown@company.com,Associate,3,Contractor,,,,,2026-09-25,LegalPros Agency
+Melissa Ramirez,Engineering,1547,62079.52,true,2021-08-16,2025-12-08T16:53:21,melissa.ramirez@company.com,Manager,2,PartTime,,,17,20.91,,
+Michael Martin,Legal,1548,51514.67,true,2022-03-02,2025-12-08T16:53:21,michael.martin@company.com,Associate,8,FullTime,Premium Health,24,,,
+Nancy Torres,Marketing,1549,81567.4,true,2023-03-23,2025-12-08T16:53:21,nancy.torres@company.com,Coordinator,0,PartTime,,,18,28.14,,
+Karen Jones,IT,1550,86931.37,false,2020-05-27,2025-12-08T16:53:21,karen.jones@company.com,Director,4,FullTime,Standard Health,20,,,
+John Clark,Finance,1551,50455.55,true,2021-04-18,2025-12-08T16:53:21,john.clark@company.com,Manager,8,FullTime,Standard Health,24,,,
+Susan Wright,Customer Service,1552,66462.91,true,2021-05-09,2025-12-08T16:53:21,susan.wright@company.com,Consultant,7,FullTime,Premium Health,27,,,
+Margaret Lee,Engineering,1553,67386.0,true,2019-06-25,2025-12-08T16:53:21,margaret.lee@company.com,Associate,2,PartTime,,,18,28.14,,
+Thomas Jones,Design,1554,79774.96,true,2022-05-01,2025-12-08T16:53:21,thomas.jones@company.com,Consultant,5,PartTime,,,25,22.74,,
+Sandra Gonzalez,Customer Service,1555,90606.5,true,2022-12-26,2025-12-08T16:53:21,sandra.gonzalez@company.com,Associate,9,Contractor,,,,,2026-11-29,LegalPros Agency
+Joshua Gonzalez,Customer Service,1556,82562.39,true,2025-08-29,2025-12-08T16:53:21,joshua.gonzalez@company.com,Engineer,1,Contractor,,,,,2027-12-03,LegalPros Agency
+Timothy Young,Sales,1557,58172.68,true,2023-08-29,2025-12-08T16:53:21,timothy.young@company.com,Designer,9,FullTime,Basic Health,21,,,
+Michelle Scott,IT,1558,71620.27,false,2020-01-11,2025-12-08T16:53:21,michelle.scott@company.com,Designer,10,Contractor,,,,,2026-08-07,TechStaff Inc
+Charles Wilson,IT,1559,75719.86,true,2025-06-02,2025-12-08T16:53:21,charles.wilson@company.com,Associate,10,Contractor,,,,,2027-05-12,Global Staffing
+Richard Lee,Marketing,1560,75324.62,true,2024-02-19,2025-12-08T16:53:21,richard.lee@company.com,Analyst,7,PartTime,,,28,27.9,,
+Charles Lee,Legal,1561,55246.38,true,2025-11-11,2025-12-08T16:53:21,charles.lee@company.com,Manager,7,PartTime,,,24,25.35,,
+Jennifer Harris,Engineering,1562,80339.25,true,2023-08-02,2025-12-08T16:53:21,jennifer.harris@company.com,Analyst,5,Contractor,,,,,2027-04-10,LegalPros Agency
+Richard Gonzalez,HR,1563,41237.98,true,2023-10-10,2025-12-08T16:53:21,richard.gonzalez@company.com,Coordinator,9,PartTime,,,16,19.03,,
+Anthony Jones,Operations,1564,49224.8,false,2024-11-13,2025-12-08T16:53:21,anthony.jones@company.com,Engineer,4,FullTime,Premium Health,15,,,
+Paul Harris,Design,1565,88916.4,true,2021-11-14,2025-12-08T16:53:21,paul.harris@company.com,Engineer,9,Contractor,,,,,2027-02-13,Elite Contractors
+John Harris,Operations,1566,48856.91,true,2023-09-11,2025-12-08T16:53:21,john.harris@company.com,Specialist,3,FullTime,Basic Health,22,,,
+Jessica Martin,Customer Service,1567,56924.76,true,2023-01-20,2025-12-08T16:53:21,jessica.martin@company.com,Associate,2,Contractor,,,,,2027-05-14,LegalPros Agency
+Mark Taylor,Sales,1568,71496.14,false,2025-08-09,2025-12-08T16:53:21,mark.taylor@company.com,Associate,4,PartTime,,,27,20.01,,
+Patricia Lee,Finance,1569,55194.36,false,2022-04-17,2025-12-08T16:53:21,patricia.lee@company.com,Specialist,8,FullTime,Basic Health,16,,,
+Susan Lopez,Design,1570,86628.12,true,2020-06-29,2025-12-08T16:53:21,susan.lopez@company.com,Consultant,2,PartTime,,,16,24.61,,
+Mary Harris,Operations,1571,84105.87,false,2022-10-20,2025-12-08T16:53:21,mary.harris@company.com,Director,5,Contractor,,,,,2027-05-15,LegalPros Agency
+Lisa Martin,Design,1572,67543.32,true,2024-12-10,2025-12-08T16:53:21,lisa.martin@company.com,Engineer,10,FullTime,Standard Health,24,,,
+Emily Torres,Customer Service,1573,42277.95,true,2021-09-21,2025-12-08T16:53:21,emily.torres@company.com,Consultant,5,Contractor,,,,,2026-09-27,TechStaff Inc
+Betty Anderson,Operations,1574,69365.09,true,2021-04-03,2025-12-08T16:53:21,betty.anderson@company.com,Consultant,3,Contractor,,,,,2027-04-18,Global Staffing
+Sarah Sanchez,Sales,1575,45056.95,false,2021-05-28,2025-12-08T16:53:21,sarah.sanchez@company.com,Director,6,FullTime,Standard Health,21,,,
+Margaret Davis,Marketing,1576,45966.42,false,2022-06-03,2025-12-08T16:53:21,margaret.davis@company.com,Associate,0,FullTime,Standard Health,28,,,
+Andrew Harris,Engineering,1577,61341.6,true,2024-01-01,2025-12-08T16:53:21,andrew.harris@company.com,Director,0,Contractor,,,,,2027-10-25,Elite Contractors
+William Perez,Marketing,1578,66116.66,true,2023-07-11,2025-12-08T16:53:21,william.perez@company.com,Developer,9,Contractor,,,,,2027-03-09,LegalPros Agency
+Charles Jones,IT,1579,63858.85,false,2020-02-26,2025-12-08T16:53:21,charles.jones@company.com,Engineer,0,FullTime,Basic Health,19,,,
+Robert Allen,Design,1580,46945.65,true,2019-10-09,2025-12-08T16:53:21,robert.allen@company.com,Associate,2,FullTime,Premium Health,15,,,
+Margaret Martin,Sales,1581,75421.08,false,2020-09-17,2025-12-08T16:53:21,margaret.martin@company.com,Consultant,0,PartTime,,,32,26.91,,
+James King,Engineering,1582,40070.34,true,2020-02-12,2025-12-08T16:53:21,james.king@company.com,Developer,7,PartTime,,,28,19.13,,
+Sarah White,Operations,1583,91095.25,false,2020-05-17,2025-12-08T16:53:21,sarah.white@company.com,Analyst,9,Contractor,,,,,2026-07-04,LegalPros Agency
+Kevin Thompson,Design,1584,50861.19,true,2023-05-09,2025-12-08T16:53:21,kevin.thompson@company.com,Specialist,5,FullTime,Premium Health,16,,,
+Melissa Wilson,Design,1585,76274.44,true,2023-03-19,2025-12-08T16:53:21,melissa.wilson@company.com,Consultant,6,Contractor,,,,,2026-04-21,Global Staffing
+Donna Brown,Legal,1586,67041.29,true,2021-06-28,2025-12-08T16:53:21,donna.brown@company.com,Designer,9,Contractor,,,,,2026-10-24,LegalPros Agency
+Melissa Martin,Finance,1587,48375.91,true,2019-12-21,2025-12-08T16:53:21,melissa.martin@company.com,Director,4,Contractor,,,,,2027-04-17,LegalPros Agency
+Margaret Lee,Customer Service,1588,45970.12,true,2024-10-15,2025-12-08T16:53:21,margaret.lee@company.com,Analyst,9,FullTime,Basic Health,29,,,
+Lisa Young,Legal,1589,86516.44,true,2023-02-19,2025-12-08T16:53:21,lisa.young@company.com,Coordinator,9,FullTime,Premium Health,15,,,
+Brian Clark,IT,1590,62130.97,true,2022-09-25,2025-12-08T16:53:21,brian.clark@company.com,Engineer,3,Contractor,,,,,2027-06-10,Global Staffing
+Daniel Rodriguez,Legal,1591,45040.17,false,2021-08-27,2025-12-08T16:53:21,daniel.rodriguez@company.com,Director,7,FullTime,Basic Health,22,,,
+Kimberly Wilson,Engineering,1592,79041.01,false,2022-07-01,2025-12-08T16:53:21,kimberly.wilson@company.com,Engineer,4,Contractor,,,,,2027-11-02,LegalPros Agency
+Richard Martinez,Design,1593,41220.8,true,2022-08-18,2025-12-08T16:53:21,richard.martinez@company.com,Specialist,0,Contractor,,,,,2027-03-20,Elite Contractors
+Elizabeth Scott,Finance,1594,71749.38,false,2022-08-05,2025-12-08T16:53:21,elizabeth.scott@company.com,Designer,10,PartTime,,,16,26.48,,
+Dorothy Lewis,Legal,1595,73520.92,false,2021-12-24,2025-12-08T16:53:21,dorothy.lewis@company.com,Designer,3,Contractor,,,,,2027-01-23,Elite Contractors
+Linda Jackson,Engineering,1596,44080.03,true,2022-06-13,2025-12-08T16:53:21,linda.jackson@company.com,Coordinator,3,Contractor,,,,,2027-01-31,LegalPros Agency
+Sarah Wright,HR,1597,44627.77,true,2021-05-05,2025-12-08T16:53:21,sarah.wright@company.com,Coordinator,3,FullTime,Standard Health,22,,,
+Timothy Scott,Engineering,1598,74607.27,false,2021-03-14,2025-12-08T16:53:21,timothy.scott@company.com,Designer,10,Contractor,,,,,2027-05-20,Global Staffing
+Andrew Garcia,Marketing,1599,52400.4,true,2019-08-28,2025-12-08T16:53:21,andrew.garcia@company.com,Designer,10,Contractor,,,,,2026-03-27,TechStaff Inc
+Patricia Davis,Design,1600,61618.08,true,2024-02-16,2025-12-08T16:53:21,patricia.davis@company.com,Designer,4,PartTime,,,31,26.52,,
+Andrew White,Legal,1601,55350.64,true,2025-07-17,2025-12-08T16:53:21,andrew.white@company.com,Associate,0,PartTime,,,27,26.92,,
+Donald Johnson,Design,1602,50709.69,false,2022-12-28,2025-12-08T16:53:21,donald.johnson@company.com,Manager,8,Contractor,,,,,2027-10-10,Elite Contractors
+Lisa Thompson,Design,1603,71183.85,true,2021-10-05,2025-12-08T16:53:21,lisa.thompson@company.com,Director,7,Contractor,,,,,2027-04-04,Elite Contractors
+Sarah Torres,Sales,1604,46486.15,true,2025-11-06,2025-12-08T16:53:21,sarah.torres@company.com,Analyst,5,PartTime,,,15,22.17,,
+Joseph Martinez,Operations,1605,65912.13,true,2024-01-19,2025-12-08T16:53:21,joseph.martinez@company.com,Coordinator,2,PartTime,,,17,18.04,,
+Emily Clark,Operations,1606,67373.76,true,2020-01-22,2025-12-08T16:53:21,emily.clark@company.com,Specialist,6,PartTime,,,23,29.02,,
+Amanda Lee,IT,1607,42638.63,true,2025-07-28,2025-12-08T16:53:21,amanda.lee@company.com,Engineer,0,FullTime,Standard Health,20,,,
+Daniel Davis,Marketing,1608,93917.61,true,2024-08-31,2025-12-08T16:53:21,daniel.davis@company.com,Manager,3,PartTime,,,22,27.05,,
+Mary Taylor,Sales,1609,77441.31,true,2020-07-24,2025-12-08T16:53:21,mary.taylor@company.com,Specialist,6,Contractor,,,,,2027-02-13,Elite Contractors
+Kenneth Thompson,HR,1610,63930.1,true,2020-02-02,2025-12-08T16:53:21,kenneth.thompson@company.com,Consultant,8,Contractor,,,,,2026-11-03,TechStaff Inc
+Christopher Garcia,Operations,1611,51756.96,true,2020-02-02,2025-12-08T16:53:21,christopher.garcia@company.com,Designer,6,FullTime,Standard Health,25,,,
+Thomas Lopez,Customer Service,1612,90854.05,true,2023-10-24,2025-12-08T16:53:21,thomas.lopez@company.com,Consultant,9,FullTime,Standard Health,21,,,
+James King,Finance,1613,80910.94,true,2023-09-29,2025-12-08T16:53:21,james.king@company.com,Analyst,1,PartTime,,,17,25.01,,
+Andrew Harris,IT,1614,66140.47,true,2023-02-25,2025-12-08T16:53:21,andrew.harris@company.com,Designer,3,FullTime,Standard Health,30,,,
+Karen Brown,HR,1615,93204.97,false,2019-07-12,2025-12-08T16:53:21,karen.brown@company.com,Manager,5,Contractor,,,,,2026-05-08,TechStaff Inc
+Timothy White,Engineering,1616,48383.56,true,2018-12-15,2025-12-08T16:53:21,timothy.white@company.com,Associate,4,FullTime,Premium Health,19,,,
+James Harris,Engineering,1617,49096.43,true,2023-05-17,2025-12-08T16:53:21,james.harris@company.com,Engineer,0,Contractor,,,,,2026-07-20,LegalPros Agency
+Jessica Brown,Design,1618,85970.26,true,2020-04-12,2025-12-08T16:53:21,jessica.brown@company.com,Associate,7,PartTime,,,19,23.54,,
+Dorothy Torres,Marketing,1619,81439.18,false,2023-06-28,2025-12-08T16:53:21,dorothy.torres@company.com,Consultant,2,Contractor,,,,,2027-03-13,Global Staffing
+Kevin Lewis,Engineering,1620,60032.23,true,2019-01-28,2025-12-08T16:53:21,kevin.lewis@company.com,Manager,7,FullTime,Standard Health,24,,,
+Timothy Young,HR,1621,80652.14,true,2022-03-01,2025-12-08T16:53:21,timothy.young@company.com,Specialist,2,PartTime,,,28,28.97,,
+William Wright,Finance,1622,53123.24,true,2021-12-04,2025-12-08T16:53:21,william.wright@company.com,Director,5,PartTime,,,25,21.0,,
+Susan Miller,IT,1623,66762.11,true,2023-03-26,2025-12-08T16:53:21,susan.miller@company.com,Consultant,0,PartTime,,,33,24.82,,
+Carol Hill,Customer Service,1624,64804.06,true,2019-04-24,2025-12-08T16:53:21,carol.hill@company.com,Manager,3,Contractor,,,,,2027-04-11,TechStaff Inc
+Kimberly Lopez,HR,1625,85259.07,true,2022-09-22,2025-12-08T16:53:21,kimberly.lopez@company.com,Director,10,Contractor,,,,,2027-07-20,LegalPros Agency
+Donald Jones,Marketing,1626,47643.04,true,2022-01-16,2025-12-08T16:53:21,donald.jones@company.com,Coordinator,4,PartTime,,,21,27.68,,
+Jennifer Johnson,Operations,1627,78023.66,true,2025-10-04,2025-12-08T16:53:21,jennifer.johnson@company.com,Consultant,1,PartTime,,,18,19.45,,
+Emily Lewis,IT,1628,76168.69,true,2021-03-11,2025-12-08T16:53:21,emily.lewis@company.com,Engineer,0,PartTime,,,24,24.61,,
+Brian Miller,Engineering,1629,87629.97,true,2021-05-05,2025-12-08T16:53:21,brian.miller@company.com,Analyst,0,PartTime,,,15,28.46,,
+William Rodriguez,HR,1630,62089.91,false,2019-01-05,2025-12-08T16:53:21,william.rodriguez@company.com,Manager,2,PartTime,,,20,28.46,,
+Thomas Lee,Legal,1631,42415.04,true,2020-05-01,2025-12-08T16:53:21,thomas.lee@company.com,Specialist,9,Contractor,,,,,2027-09-07,Elite Contractors
+Deborah Wright,Marketing,1632,68121.14,true,2020-02-27,2025-12-08T16:53:21,deborah.wright@company.com,Coordinator,2,PartTime,,,20,27.97,,
+Michael Perez,Sales,1633,68889.92,true,2019-07-30,2025-12-08T16:53:21,michael.perez@company.com,Designer,9,Contractor,,,,,2026-03-10,TechStaff Inc
+Carol Garcia,Design,1634,52865.96,true,2022-02-16,2025-12-08T16:53:21,carol.garcia@company.com,Analyst,6,PartTime,,,16,18.54,,
+John Anderson,Marketing,1635,64150.7,true,2020-06-20,2025-12-08T16:53:21,john.anderson@company.com,Designer,5,FullTime,Premium Health,22,,,
+Mary Ramirez,Operations,1636,46615.61,false,2023-07-28,2025-12-08T16:53:21,mary.ramirez@company.com,Coordinator,5,Contractor,,,,,2027-08-05,Global Staffing
+Michelle Torres,Legal,1637,93420.06,true,2019-03-26,2025-12-08T16:53:21,michelle.torres@company.com,Specialist,3,PartTime,,,23,20.63,,
+John Davis,Design,1638,52183.4,true,2024-04-20,2025-12-08T16:53:21,john.davis@company.com,Associate,6,PartTime,,,18,27.94,,
+Brian Garcia,Design,1639,46368.27,true,2019-04-09,2025-12-08T16:53:21,brian.garcia@company.com,Coordinator,7,Contractor,,,,,2026-04-13,Elite Contractors
+Richard Wilson,Design,1640,83250.66,true,2023-11-21,2025-12-08T16:53:21,richard.wilson@company.com,Specialist,6,Contractor,,,,,2026-04-18,TechStaff Inc
+Brian Hernandez,Customer Service,1641,57729.0,true,2021-11-22,2025-12-08T16:53:21,brian.hernandez@company.com,Manager,6,Contractor,,,,,2027-03-10,Elite Contractors
+David Wilson,Finance,1642,87703.15,true,2025-07-04,2025-12-08T16:53:21,david.wilson@company.com,Engineer,1,PartTime,,,23,18.48,,
+Patricia Scott,Legal,1643,46126.52,true,2019-12-07,2025-12-08T16:53:21,patricia.scott@company.com,Associate,2,FullTime,Standard Health,23,,,
+Sarah Garcia,HR,1644,61817.95,true,2019-07-22,2025-12-08T16:53:21,sarah.garcia@company.com,Analyst,5,PartTime,,,25,24.36,,
+Ashley Garcia,IT,1645,80144.1,true,2018-12-28,2025-12-08T16:53:21,ashley.garcia@company.com,Developer,7,Contractor,,,,,2026-10-25,TechStaff Inc
+Christopher Gonzalez,HR,1646,79049.57,true,2023-10-31,2025-12-08T16:53:21,christopher.gonzalez@company.com,Consultant,6,Contractor,,,,,2026-06-23,Global Staffing
+Steven Johnson,Sales,1647,40551.46,true,2024-05-12,2025-12-08T16:53:21,steven.johnson@company.com,Analyst,0,Contractor,,,,,2027-01-03,Global Staffing
+Mark Robinson,Finance,1648,40447.92,true,2020-09-11,2025-12-08T16:53:21,mark.robinson@company.com,Manager,1,Contractor,,,,,2027-05-01,LegalPros Agency
+Melissa Anderson,Engineering,1649,89750.21,true,2023-12-24,2025-12-08T16:53:21,melissa.anderson@company.com,Director,6,FullTime,Standard Health,30,,,
+Kimberly Smith,Legal,1650,41646.82,true,2024-08-12,2025-12-08T16:53:21,kimberly.smith@company.com,Engineer,8,FullTime,Premium Health,30,,,
+Steven Anderson,Customer Service,1651,44605.55,true,2023-11-07,2025-12-08T16:53:21,steven.anderson@company.com,Director,6,PartTime,,,33,18.6,,
+Ashley Young,Engineering,1652,53711.94,true,2025-08-22,2025-12-08T16:53:21,ashley.young@company.com,Director,3,PartTime,,,28,25.81,,
+Andrew Jackson,Design,1653,62128.67,true,2019-08-03,2025-12-08T16:53:21,andrew.jackson@company.com,Coordinator,8,FullTime,Premium Health,29,,,
+Ashley Garcia,Design,1654,65886.29,true,2021-09-23,2025-12-08T16:53:21,ashley.garcia@company.com,Analyst,2,FullTime,Standard Health,26,,,
+Melissa Lewis,Legal,1655,72636.31,true,2019-02-24,2025-12-08T16:53:21,melissa.lewis@company.com,Engineer,1,PartTime,,,29,28.77,,
+Kevin Wilson,IT,1656,42169.06,true,2025-10-07,2025-12-08T16:53:21,kevin.wilson@company.com,Coordinator,3,Contractor,,,,,2027-06-13,TechStaff Inc
+Lisa Smith,Legal,1657,52062.41,true,2019-11-26,2025-12-08T16:53:21,lisa.smith@company.com,Engineer,5,Contractor,,,,,2026-11-07,LegalPros Agency
+Deborah Thomas,Finance,1658,41694.06,true,2024-06-21,2025-12-08T16:53:21,deborah.thomas@company.com,Specialist,8,Contractor,,,,,2027-09-17,Elite Contractors
+William Hill,Customer Service,1659,64677.22,true,2024-07-05,2025-12-08T16:53:21,william.hill@company.com,Analyst,3,Contractor,,,,,2027-02-01,Global Staffing
+Thomas Thompson,IT,1660,82850.83,false,2021-08-13,2025-12-08T16:53:21,thomas.thompson@company.com,Engineer,10,Contractor,,,,,2026-12-30,LegalPros Agency
+Paul Sanchez,IT,1661,49413.49,true,2019-09-15,2025-12-08T16:53:21,paul.sanchez@company.com,Developer,6,PartTime,,,29,26.75,,
+Timothy Perez,Design,1662,53128.78,true,2021-09-13,2025-12-08T16:53:21,timothy.perez@company.com,Specialist,2,FullTime,Standard Health,20,,,
+Andrew Harris,Design,1663,51772.24,true,2019-12-28,2025-12-08T16:53:21,andrew.harris@company.com,Designer,6,Contractor,,,,,2027-05-25,LegalPros Agency
+Jennifer Hernandez,HR,1664,65887.23,false,2025-10-31,2025-12-08T16:53:21,jennifer.hernandez@company.com,Developer,3,Contractor,,,,,2027-05-22,Global Staffing
+Amanda Smith,Sales,1665,80218.75,true,2023-04-21,2025-12-08T16:53:21,amanda.smith@company.com,Analyst,9,FullTime,Standard Health,17,,,
+Charles Ramirez,HR,1666,62704.07,false,2021-08-02,2025-12-08T16:53:21,charles.ramirez@company.com,Specialist,8,FullTime,Premium Health,28,,,
+Michelle Nguyen,Finance,1667,55108.47,true,2020-06-17,2025-12-08T16:53:21,michelle.nguyen@company.com,Specialist,3,Contractor,,,,,2026-06-21,Global Staffing
+Sandra Nguyen,HR,1668,42848.59,true,2023-08-11,2025-12-08T16:53:21,sandra.nguyen@company.com,Engineer,4,PartTime,,,34,29.88,,
+Linda Lewis,IT,1669,84801.66,true,2022-03-21,2025-12-08T16:53:21,linda.lewis@company.com,Director,5,PartTime,,,35,29.31,,
+David Clark,Engineering,1670,42676.9,true,2020-11-28,2025-12-08T16:53:21,david.clark@company.com,Engineer,2,Contractor,,,,,2027-06-25,TechStaff Inc
+Andrew Smith,Legal,1671,54949.88,false,2019-07-13,2025-12-08T16:53:21,andrew.smith@company.com,Consultant,6,Contractor,,,,,2027-10-25,Global Staffing
+Charles Johnson,Operations,1672,82237.81,true,2022-05-11,2025-12-08T16:53:21,charles.johnson@company.com,Consultant,2,PartTime,,,23,21.3,,
+Karen Taylor,Design,1673,62790.0,true,2022-02-25,2025-12-08T16:53:21,karen.taylor@company.com,Engineer,0,PartTime,,,21,29.09,,
+Ashley Moore,HR,1674,66098.82,true,2021-09-15,2025-12-08T16:53:21,ashley.moore@company.com,Manager,10,Contractor,,,,,2027-01-18,LegalPros Agency
+Timothy Garcia,IT,1675,61584.19,false,2022-04-20,2025-12-08T16:53:21,timothy.garcia@company.com,Consultant,10,FullTime,Premium Health,20,,,
+Charles Sanchez,Design,1676,65800.18,false,2022-04-25,2025-12-08T16:53:21,charles.sanchez@company.com,Associate,9,PartTime,,,18,29.42,,
+Donald Hernandez,Finance,1677,47822.76,true,2019-11-12,2025-12-08T16:53:21,donald.hernandez@company.com,Associate,7,Contractor,,,,,2026-12-10,Elite Contractors
+Elizabeth Rodriguez,Design,1678,59933.68,true,2025-02-28,2025-12-08T16:53:21,elizabeth.rodriguez@company.com,Associate,0,Contractor,,,,,2026-04-09,Elite Contractors
+Joshua Nguyen,Engineering,1679,85747.02,false,2025-10-05,2025-12-08T16:53:21,joshua.nguyen@company.com,Designer,5,PartTime,,,23,19.81,,
+Nancy Young,Marketing,1680,48306.74,false,2019-07-16,2025-12-08T16:53:21,nancy.young@company.com,Coordinator,9,PartTime,,,34,28.64,,
+Barbara Hill,Marketing,1681,52176.45,true,2022-07-29,2025-12-08T16:53:21,barbara.hill@company.com,Developer,0,FullTime,Standard Health,26,,,
+Margaret Martinez,Operations,1682,78721.86,false,2018-12-14,2025-12-08T16:53:21,margaret.martinez@company.com,Specialist,5,FullTime,Standard Health,18,,,
+David Allen,Design,1683,85055.94,true,2025-08-14,2025-12-08T16:53:21,david.allen@company.com,Specialist,0,FullTime,Basic Health,25,,,
+Joseph Rodriguez,Customer Service,1684,80144.53,true,2023-03-23,2025-12-08T16:53:21,joseph.rodriguez@company.com,Consultant,5,FullTime,Basic Health,22,,,
+Kimberly Martinez,Customer Service,1685,72962.64,true,2022-12-03,2025-12-08T16:53:21,kimberly.martinez@company.com,Consultant,3,PartTime,,,29,19.69,,
+Dorothy Lopez,Finance,1686,65184.42,true,2025-10-29,2025-12-08T16:53:21,dorothy.lopez@company.com,Director,1,FullTime,Basic Health,29,,,
+Joshua Torres,Sales,1687,71848.83,true,2021-07-05,2025-12-08T16:53:21,joshua.torres@company.com,Specialist,9,FullTime,Basic Health,24,,,
+Timothy Robinson,Sales,1688,88679.02,true,2020-06-29,2025-12-08T16:53:21,timothy.robinson@company.com,Analyst,2,Contractor,,,,,2027-06-03,Elite Contractors
+Sarah Jones,Finance,1689,66912.72,true,2023-11-30,2025-12-08T16:53:21,sarah.jones@company.com,Designer,5,FullTime,Premium Health,19,,,
+Donna Hernandez,IT,1690,68129.89,false,2024-08-04,2025-12-08T16:53:21,donna.hernandez@company.com,Director,7,Contractor,,,,,2027-11-24,TechStaff Inc
+Jennifer Jackson,HR,1691,83168.56,true,2023-02-17,2025-12-08T16:53:21,jennifer.jackson@company.com,Specialist,8,Contractor,,,,,2027-03-08,TechStaff Inc
+Kimberly Thomas,IT,1692,46872.67,true,2022-01-09,2025-12-08T16:53:21,kimberly.thomas@company.com,Consultant,5,Contractor,,,,,2027-07-26,Elite Contractors
+Elizabeth Torres,Legal,1693,51534.16,true,2019-03-20,2025-12-08T16:53:21,elizabeth.torres@company.com,Manager,9,PartTime,,,30,29.0,,
+Christopher Taylor,Finance,1694,52909.51,true,2019-07-12,2025-12-08T16:53:21,christopher.taylor@company.com,Director,2,Contractor,,,,,2027-09-18,LegalPros Agency
+Deborah Hill,HR,1695,71658.66,true,2019-10-03,2025-12-08T16:53:21,deborah.hill@company.com,Manager,7,Contractor,,,,,2027-01-08,Elite Contractors
+William King,Operations,1696,72369.32,true,2022-09-11,2025-12-08T16:53:21,william.king@company.com,Analyst,4,PartTime,,,25,28.11,,
+Kimberly Ramirez,Sales,1697,46565.43,true,2023-07-05,2025-12-08T16:53:21,kimberly.ramirez@company.com,Analyst,7,PartTime,,,35,29.77,,
+Anthony White,Finance,1698,54446.58,true,2023-04-12,2025-12-08T16:53:21,anthony.white@company.com,Designer,0,PartTime,,,20,18.72,,
+William Young,Design,1699,63971.52,true,2020-03-18,2025-12-08T16:53:21,william.young@company.com,Manager,1,FullTime,Standard Health,15,,,
+Karen Miller,Finance,1700,47942.05,true,2022-08-27,2025-12-08T16:53:21,karen.miller@company.com,Designer,8,Contractor,,,,,2027-07-19,LegalPros Agency
+Nancy Jackson,HR,1701,54130.67,true,2019-10-12,2025-12-08T16:53:21,nancy.jackson@company.com,Engineer,3,Contractor,,,,,2027-07-10,Elite Contractors
+Paul Garcia,Marketing,1702,56751.57,true,2022-07-15,2025-12-08T16:53:21,paul.garcia@company.com,Analyst,5,PartTime,,,29,21.94,,
+James Garcia,HR,1703,49929.25,true,2022-01-08,2025-12-08T16:53:21,james.garcia@company.com,Developer,8,Contractor,,,,,2026-03-22,LegalPros Agency
+Sandra Torres,Marketing,1704,53678.22,true,2023-04-11,2025-12-08T16:53:21,sandra.torres@company.com,Analyst,10,PartTime,,,21,18.65,,
+Kevin Harris,Design,1705,84781.78,true,2021-05-21,2025-12-08T16:53:21,kevin.harris@company.com,Specialist,0,FullTime,Basic Health,19,,,
+Andrew Sanchez,Engineering,1706,43813.36,true,2021-04-22,2025-12-08T16:53:21,andrew.sanchez@company.com,Specialist,4,FullTime,Premium Health,30,,,
+David Walker,Finance,1707,70903.23,true,2019-04-13,2025-12-08T16:53:21,david.walker@company.com,Specialist,8,FullTime,Basic Health,20,,,
+Linda Sanchez,Legal,1708,94372.55,false,2025-07-18,2025-12-08T16:53:21,linda.sanchez@company.com,Engineer,0,PartTime,,,35,21.19,,
+Betty Miller,Engineering,1709,77408.21,true,2022-03-26,2025-12-08T16:53:21,betty.miller@company.com,Coordinator,2,PartTime,,,20,26.43,,
+Christopher Hill,IT,1710,66608.69,true,2025-08-31,2025-12-08T16:53:21,christopher.hill@company.com,Manager,9,FullTime,Basic Health,17,,,
+Melissa Nguyen,Marketing,1711,40380.14,true,2021-01-09,2025-12-08T16:53:21,melissa.nguyen@company.com,Engineer,6,FullTime,Premium Health,18,,,
+Charles Anderson,Engineering,1712,94361.0,false,2022-07-31,2025-12-08T16:53:21,charles.anderson@company.com,Associate,10,Contractor,,,,,2026-11-02,LegalPros Agency
+Robert Harris,Engineering,1713,67373.64,false,2023-07-21,2025-12-08T16:53:21,robert.harris@company.com,Director,10,FullTime,Standard Health,15,,,
+Kevin Torres,Customer Service,1714,54618.6,false,2019-02-22,2025-12-08T16:53:21,kevin.torres@company.com,Developer,0,Contractor,,,,,2027-01-13,Global Staffing
+George Martin,HR,1715,90438.18,true,2022-09-13,2025-12-08T16:53:21,george.martin@company.com,Manager,7,PartTime,,,18,24.95,,
+Sarah Williams,Sales,1716,71943.77,true,2025-01-04,2025-12-08T16:53:21,sarah.williams@company.com,Designer,4,PartTime,,,29,20.58,,
+Michael Wilson,Marketing,1717,49561.99,true,2021-02-04,2025-12-08T16:53:21,michael.wilson@company.com,Developer,0,PartTime,,,27,29.02,,
+Daniel Clark,Sales,1718,81085.24,true,2024-01-20,2025-12-08T16:53:21,daniel.clark@company.com,Manager,5,PartTime,,,26,24.54,,
+Thomas White,Engineering,1719,87262.25,true,2022-12-14,2025-12-08T16:53:21,thomas.white@company.com,Analyst,2,Contractor,,,,,2027-01-14,Global Staffing
+Steven Sanchez,HR,1720,70000.07,true,2025-06-22,2025-12-08T16:53:21,steven.sanchez@company.com,Specialist,3,FullTime,Basic Health,25,,,
+Ashley Thomas,HR,1721,46405.76,true,2022-02-06,2025-12-08T16:53:21,ashley.thomas@company.com,Engineer,9,Contractor,,,,,2027-10-07,Global Staffing
+Karen Torres,Customer Service,1722,66652.33,true,2020-08-08,2025-12-08T16:53:21,karen.torres@company.com,Developer,7,Contractor,,,,,2027-11-26,Elite Contractors
+Patricia Lewis,Marketing,1723,60812.29,true,2021-08-12,2025-12-08T16:53:21,patricia.lewis@company.com,Analyst,2,Contractor,,,,,2027-05-01,Global Staffing
+George White,Finance,1724,54429.69,true,2021-05-16,2025-12-08T16:53:21,george.white@company.com,Manager,5,PartTime,,,31,26.12,,
+Jessica Thompson,IT,1725,50273.66,true,2020-10-11,2025-12-08T16:53:21,jessica.thompson@company.com,Director,9,FullTime,Standard Health,21,,,
+Kimberly Robinson,Marketing,1726,86052.27,false,2020-09-25,2025-12-08T16:53:21,kimberly.robinson@company.com,Engineer,0,FullTime,Standard Health,24,,,
+Jennifer Brown,Marketing,1727,80357.26,true,2023-01-14,2025-12-08T16:53:21,jennifer.brown@company.com,Director,8,Contractor,,,,,2027-11-25,LegalPros Agency
+Daniel Miller,IT,1728,47795.26,true,2025-02-18,2025-12-08T16:53:21,daniel.miller@company.com,Analyst,6,Contractor,,,,,2027-08-22,Global Staffing
+Andrew Lewis,Legal,1729,94970.04,true,2021-04-01,2025-12-08T16:53:21,andrew.lewis@company.com,Developer,8,PartTime,,,32,27.74,,
+Jennifer Wright,Design,1730,83022.99,false,2019-07-11,2025-12-08T16:53:21,jennifer.wright@company.com,Director,3,Contractor,,,,,2027-08-05,TechStaff Inc
+Kevin Lewis,HR,1731,59762.81,true,2019-03-21,2025-12-08T16:53:21,kevin.lewis@company.com,Coordinator,2,Contractor,,,,,2027-04-10,TechStaff Inc
+Patricia Harris,HR,1732,87090.94,true,2019-07-06,2025-12-08T16:53:21,patricia.harris@company.com,Associate,1,FullTime,Premium Health,26,,,
+Karen King,Marketing,1733,85976.49,true,2022-09-25,2025-12-08T16:53:21,karen.king@company.com,Associate,7,PartTime,,,33,19.74,,
+Linda Lee,Marketing,1734,40284.25,true,2020-07-09,2025-12-08T16:53:21,linda.lee@company.com,Specialist,0,FullTime,Standard Health,20,,,
+Karen Jones,Design,1735,76966.77,true,2025-03-02,2025-12-08T16:53:21,karen.jones@company.com,Analyst,3,PartTime,,,24,28.72,,
+Margaret Robinson,Design,1736,87535.49,false,2024-02-24,2025-12-08T16:53:21,margaret.robinson@company.com,Designer,6,Contractor,,,,,2026-11-18,TechStaff Inc
+Joshua Jones,Legal,1737,89897.87,true,2021-08-13,2025-12-08T16:53:21,joshua.jones@company.com,Developer,7,FullTime,Standard Health,22,,,
+Lisa Thompson,Operations,1738,55482.68,true,2022-01-08,2025-12-08T16:53:21,lisa.thompson@company.com,Consultant,3,FullTime,Premium Health,18,,,
+Melissa Allen,HR,1739,40622.54,true,2024-06-10,2025-12-08T16:53:21,melissa.allen@company.com,Director,2,FullTime,Basic Health,26,,,
+Sandra Johnson,Engineering,1740,45421.76,true,2022-08-22,2025-12-08T16:53:21,sandra.johnson@company.com,Developer,8,PartTime,,,31,23.18,,
+Dorothy Johnson,Finance,1741,50133.83,true,2022-04-27,2025-12-08T16:53:21,dorothy.johnson@company.com,Associate,0,FullTime,Premium Health,17,,,
+Karen Thomas,Operations,1742,85686.29,true,2018-12-17,2025-12-08T16:53:21,karen.thomas@company.com,Analyst,5,Contractor,,,,,2027-11-27,TechStaff Inc
+Christopher Smith,Marketing,1743,46184.17,true,2019-08-18,2025-12-08T16:53:21,christopher.smith@company.com,Developer,8,FullTime,Basic Health,18,,,
+Andrew Thomas,Customer Service,1744,71680.48,true,2025-02-23,2025-12-08T16:53:21,andrew.thomas@company.com,Manager,3,PartTime,,,16,29.34,,
+Margaret Wilson,Marketing,1745,51128.13,true,2019-05-02,2025-12-08T16:53:21,margaret.wilson@company.com,Developer,5,FullTime,Basic Health,29,,,
+Mark Perez,Legal,1746,88244.47,true,2021-06-02,2025-12-08T16:53:21,mark.perez@company.com,Designer,8,PartTime,,,26,19.57,,
+Thomas Martinez,Design,1747,86996.36,false,2025-09-27,2025-12-08T16:53:21,thomas.martinez@company.com,Designer,2,FullTime,Standard Health,16,,,
+Timothy Perez,Operations,1748,53399.73,true,2025-04-10,2025-12-08T16:53:21,timothy.perez@company.com,Analyst,3,FullTime,Standard Health,26,,,
+Timothy Robinson,Legal,1749,75383.16,true,2024-01-16,2025-12-08T16:53:21,timothy.robinson@company.com,Director,4,FullTime,Premium Health,26,,,
+Emily Taylor,Design,1750,66549.3,true,2019-08-10,2025-12-08T16:53:21,emily.taylor@company.com,Engineer,0,FullTime,Standard Health,24,,,
+Timothy Allen,Design,1751,40962.93,true,2020-05-02,2025-12-08T16:53:21,timothy.allen@company.com,Coordinator,5,PartTime,,,27,19.4,,
+Deborah White,Marketing,1752,49283.48,false,2022-06-02,2025-12-08T16:53:21,deborah.white@company.com,Developer,4,PartTime,,,25,19.83,,
+Barbara Jackson,Design,1753,89751.02,true,2025-01-08,2025-12-08T16:53:21,barbara.jackson@company.com,Director,4,PartTime,,,27,24.51,,
+Kenneth Jackson,Finance,1754,64646.68,false,2021-02-19,2025-12-08T16:53:21,kenneth.jackson@company.com,Coordinator,3,FullTime,Basic Health,23,,,
+Kenneth Wright,Legal,1755,64344.32,true,2022-12-24,2025-12-08T16:53:21,kenneth.wright@company.com,Manager,0,FullTime,Premium Health,30,,,
+Susan Young,IT,1756,58921.4,false,2023-07-31,2025-12-08T16:53:21,susan.young@company.com,Director,1,Contractor,,,,,2026-08-18,TechStaff Inc
+David Garcia,Operations,1757,48659.22,true,2019-05-19,2025-12-08T16:53:21,david.garcia@company.com,Manager,5,Contractor,,,,,2027-03-08,LegalPros Agency
+Kenneth Brown,Design,1758,88315.31,true,2021-07-30,2025-12-08T16:53:21,kenneth.brown@company.com,Consultant,3,FullTime,Basic Health,28,,,
+Timothy Sanchez,Customer Service,1759,49622.3,true,2020-12-27,2025-12-08T16:53:21,timothy.sanchez@company.com,Coordinator,2,Contractor,,,,,2026-06-07,LegalPros Agency
+Kenneth Jackson,Marketing,1760,82544.59,true,2019-09-14,2025-12-08T16:53:21,kenneth.jackson@company.com,Manager,8,Contractor,,,,,2027-10-19,LegalPros Agency
+Barbara Williams,Customer Service,1761,47763.5,true,2019-09-18,2025-12-08T16:53:21,barbara.williams@company.com,Consultant,5,FullTime,Premium Health,30,,,
+Jennifer Brown,Design,1762,61361.62,true,2021-05-29,2025-12-08T16:53:21,jennifer.brown@company.com,Specialist,6,PartTime,,,27,28.1,,
+Anthony Lee,Customer Service,1763,61630.01,true,2025-09-26,2025-12-08T16:53:21,anthony.lee@company.com,Manager,4,FullTime,Standard Health,16,,,
+Nancy Torres,Marketing,1764,47697.41,true,2025-06-10,2025-12-08T16:53:21,nancy.torres@company.com,Manager,10,PartTime,,,28,20.77,,
+John Gonzalez,Marketing,1765,85048.66,true,2021-12-10,2025-12-08T16:53:21,john.gonzalez@company.com,Manager,5,FullTime,Premium Health,28,,,
+Mary Davis,Operations,1766,43807.21,true,2022-12-20,2025-12-08T16:53:21,mary.davis@company.com,Developer,9,PartTime,,,28,27.77,,
+Kevin Hill,Legal,1767,73823.47,true,2022-05-27,2025-12-08T16:53:21,kevin.hill@company.com,Specialist,7,Contractor,,,,,2026-05-13,LegalPros Agency
+Sarah Clark,Sales,1768,93659.06,true,2023-10-13,2025-12-08T16:53:21,sarah.clark@company.com,Analyst,6,Contractor,,,,,2027-04-29,Global Staffing
+Deborah Perez,Sales,1769,80191.97,true,2020-02-19,2025-12-08T16:53:21,deborah.perez@company.com,Consultant,1,PartTime,,,35,25.86,,
+Joshua Gonzalez,Marketing,1770,80059.21,true,2019-09-08,2025-12-08T16:53:21,joshua.gonzalez@company.com,Engineer,9,FullTime,Standard Health,25,,,
+Susan Allen,HR,1771,57885.83,true,2024-01-13,2025-12-08T16:53:21,susan.allen@company.com,Manager,8,Contractor,,,,,2027-02-19,Global Staffing
+Ashley Smith,Engineering,1772,75491.68,true,2024-08-13,2025-12-08T16:53:21,ashley.smith@company.com,Manager,8,Contractor,,,,,2026-05-16,TechStaff Inc
+Jessica Perez,Engineering,1773,81311.92,true,2023-03-27,2025-12-08T16:53:21,jessica.perez@company.com,Manager,3,Contractor,,,,,2027-11-30,LegalPros Agency
+Ashley Young,Engineering,1774,67073.86,true,2021-09-14,2025-12-08T16:53:21,ashley.young@company.com,Coordinator,5,Contractor,,,,,2026-05-29,TechStaff Inc
+Kenneth King,Finance,1775,90306.39,true,2021-01-16,2025-12-08T16:53:21,kenneth.king@company.com,Manager,5,Contractor,,,,,2027-02-04,LegalPros Agency
+Christopher Perez,IT,1776,86462.03,true,2024-10-21,2025-12-08T16:53:21,christopher.perez@company.com,Designer,10,PartTime,,,17,21.84,,
+Melissa Scott,Finance,1777,73759.32,true,2025-03-17,2025-12-08T16:53:21,melissa.scott@company.com,Coordinator,8,FullTime,Basic Health,20,,,
+Michael White,Legal,1778,53966.68,true,2021-04-02,2025-12-08T16:53:21,michael.white@company.com,Designer,10,Contractor,,,,,2026-07-23,Elite Contractors
+Barbara Wilson,Sales,1779,62561.19,true,2023-02-17,2025-12-08T16:53:21,barbara.wilson@company.com,Analyst,1,Contractor,,,,,2026-12-21,TechStaff Inc
+Jessica Flores,Operations,1780,65235.17,true,2022-03-29,2025-12-08T16:53:21,jessica.flores@company.com,Coordinator,8,FullTime,Premium Health,18,,,
+Michael Scott,Marketing,1781,61195.51,true,2019-09-23,2025-12-08T16:53:21,michael.scott@company.com,Analyst,10,PartTime,,,29,28.78,,
+Jessica Robinson,Customer Service,1782,40405.88,true,2023-10-27,2025-12-08T16:53:21,jessica.robinson@company.com,Consultant,4,PartTime,,,25,18.05,,
+Christopher Torres,Customer Service,1783,66666.25,true,2023-11-26,2025-12-08T16:53:21,christopher.torres@company.com,Engineer,2,Contractor,,,,,2026-06-25,Global Staffing
+James Lee,Design,1784,63486.92,false,2025-09-30,2025-12-08T16:53:21,james.lee@company.com,Director,1,FullTime,Premium Health,22,,,
+Betty Williams,Design,1785,56595.18,true,2021-03-16,2025-12-08T16:53:21,betty.williams@company.com,Developer,10,Contractor,,,,,2026-12-20,Global Staffing
+Anthony Lee,Engineering,1786,42531.44,true,2019-07-15,2025-12-08T16:53:21,anthony.lee@company.com,Analyst,2,PartTime,,,19,25.47,,
+Kevin Lopez,Customer Service,1787,53193.05,false,2024-12-26,2025-12-08T16:53:21,kevin.lopez@company.com,Developer,6,FullTime,Standard Health,28,,,
+William Thomas,Sales,1788,42925.57,true,2021-01-24,2025-12-08T16:53:21,william.thomas@company.com,Analyst,8,Contractor,,,,,2026-03-14,LegalPros Agency
+Lisa Lopez,Engineering,1789,50644.64,true,2022-11-06,2025-12-08T16:53:21,lisa.lopez@company.com,Manager,6,Contractor,,,,,2026-06-12,Global Staffing
+David Torres,IT,1790,88341.67,true,2021-10-23,2025-12-08T16:53:21,david.torres@company.com,Manager,6,PartTime,,,27,27.69,,
+Lisa Gonzalez,Operations,1791,93049.9,false,2019-07-23,2025-12-08T16:53:21,lisa.gonzalez@company.com,Designer,3,FullTime,Basic Health,30,,,
+Michael Harris,IT,1792,85815.41,false,2022-12-22,2025-12-08T16:53:21,michael.harris@company.com,Associate,1,PartTime,,,20,29.41,,
+Charles Ramirez,IT,1793,71708.18,true,2024-12-26,2025-12-08T16:53:21,charles.ramirez@company.com,Analyst,7,FullTime,Standard Health,17,,,
+Andrew Martin,IT,1794,42998.61,true,2020-01-27,2025-12-08T16:53:21,andrew.martin@company.com,Analyst,4,Contractor,,,,,2026-09-02,TechStaff Inc
+Charles Sanchez,Operations,1795,90067.56,true,2024-05-25,2025-12-08T16:53:21,charles.sanchez@company.com,Designer,0,PartTime,,,29,25.42,,
+George Rodriguez,Design,1796,68175.57,false,2019-01-10,2025-12-08T16:53:21,george.rodriguez@company.com,Coordinator,2,FullTime,Premium Health,26,,,
+Timothy Walker,Finance,1797,83559.3,true,2023-05-06,2025-12-08T16:53:21,timothy.walker@company.com,Specialist,6,Contractor,,,,,2027-11-03,Elite Contractors
+Elizabeth Moore,Customer Service,1798,92721.55,true,2020-03-01,2025-12-08T16:53:21,elizabeth.moore@company.com,Associate,5,Contractor,,,,,2027-12-08,LegalPros Agency
+Robert Johnson,Marketing,1799,78820.35,true,2023-05-27,2025-12-08T16:53:21,robert.johnson@company.com,Specialist,1,FullTime,Premium Health,17,,,
+Donald Clark,Customer Service,1800,76076.28,true,2019-02-28,2025-12-08T16:53:21,donald.clark@company.com,Designer,3,Contractor,,,,,2027-09-22,Global Staffing
+Andrew Miller,Marketing,1801,63604.37,true,2021-01-08,2025-12-08T16:53:21,andrew.miller@company.com,Associate,2,PartTime,,,20,26.18,,
+William Anderson,HR,1802,86053.06,true,2019-08-22,2025-12-08T16:53:21,william.anderson@company.com,Associate,1,PartTime,,,31,24.63,,
+Dorothy King,Sales,1803,58469.25,true,2022-10-10,2025-12-08T16:53:21,dorothy.king@company.com,Engineer,1,FullTime,Standard Health,25,,,
+William Ramirez,HR,1804,48610.46,true,2024-11-09,2025-12-08T16:53:21,william.ramirez@company.com,Designer,5,FullTime,Standard Health,24,,,
+Susan Lewis,HR,1805,86206.78,true,2023-05-25,2025-12-08T16:53:21,susan.lewis@company.com,Analyst,0,FullTime,Basic Health,18,,,
+Charles Flores,Finance,1806,77098.3,true,2019-11-30,2025-12-08T16:53:21,charles.flores@company.com,Designer,6,FullTime,Standard Health,22,,,
+Christopher Robinson,Sales,1807,94155.31,true,2023-09-30,2025-12-08T16:53:21,christopher.robinson@company.com,Coordinator,4,Contractor,,,,,2026-07-23,Elite Contractors
+Patricia Johnson,Marketing,1808,41021.12,true,2024-11-23,2025-12-08T16:53:21,patricia.johnson@company.com,Consultant,1,Contractor,,,,,2027-07-26,TechStaff Inc
+Anthony Robinson,HR,1809,42014.13,false,2020-08-28,2025-12-08T16:53:21,anthony.robinson@company.com,Consultant,9,PartTime,,,21,24.22,,
+Linda Martinez,Sales,1810,81583.52,true,2022-11-10,2025-12-08T16:53:21,linda.martinez@company.com,Associate,7,PartTime,,,33,20.81,,
+Robert Thomas,Marketing,1811,60686.73,true,2021-01-13,2025-12-08T16:53:21,robert.thomas@company.com,Manager,9,PartTime,,,30,29.53,,
+Joshua Smith,Engineering,1812,46290.13,true,2021-07-13,2025-12-08T16:53:21,joshua.smith@company.com,Consultant,6,FullTime,Basic Health,22,,,
+Jessica Martin,Engineering,1813,40367.94,true,2025-03-26,2025-12-08T16:53:21,jessica.martin@company.com,Associate,9,FullTime,Premium Health,22,,,
+Kevin Scott,Customer Service,1814,75547.21,true,2019-03-16,2025-12-08T16:53:21,kevin.scott@company.com,Coordinator,2,Contractor,,,,,2027-03-06,TechStaff Inc
+Melissa Brown,Sales,1815,49978.79,true,2021-09-12,2025-12-08T16:53:21,melissa.brown@company.com,Coordinator,0,Contractor,,,,,2026-04-23,LegalPros Agency
+Michael Rodriguez,Customer Service,1816,49996.17,true,2020-03-27,2025-12-08T16:53:21,michael.rodriguez@company.com,Coordinator,0,PartTime,,,19,23.12,,
+Carol Hernandez,Design,1817,88100.01,false,2022-08-22,2025-12-08T16:53:21,carol.hernandez@company.com,Engineer,8,Contractor,,,,,2027-04-25,Global Staffing
+David Lewis,Engineering,1818,83354.59,true,2024-09-05,2025-12-08T16:53:21,david.lewis@company.com,Coordinator,0,PartTime,,,25,25.34,,
+Barbara Allen,Operations,1819,56365.95,false,2024-07-06,2025-12-08T16:53:21,barbara.allen@company.com,Director,6,FullTime,Premium Health,15,,,
+Daniel Martin,Engineering,1820,77648.37,true,2025-08-21,2025-12-08T16:53:21,daniel.martin@company.com,Consultant,9,PartTime,,,31,19.04,,
+Emily Lee,Finance,1821,87503.24,false,2019-08-18,2025-12-08T16:53:21,emily.lee@company.com,Coordinator,3,FullTime,Premium Health,24,,,
+Elizabeth Lopez,Design,1822,94067.38,true,2025-08-20,2025-12-08T16:53:21,elizabeth.lopez@company.com,Associate,2,PartTime,,,27,27.67,,
+Margaret Hill,Customer Service,1823,74157.68,true,2020-02-11,2025-12-08T16:53:21,margaret.hill@company.com,Manager,0,FullTime,Standard Health,27,,,
+Steven Wright,Legal,1824,76252.21,true,2025-10-01,2025-12-08T16:53:21,steven.wright@company.com,Analyst,6,Contractor,,,,,2027-09-16,LegalPros Agency
+Sandra Jackson,Design,1825,43884.84,true,2024-11-23,2025-12-08T16:53:21,sandra.jackson@company.com,Developer,0,Contractor,,,,,2027-08-30,Elite Contractors
+Thomas White,HR,1826,75200.63,true,2023-04-10,2025-12-08T16:53:21,thomas.white@company.com,Manager,7,Contractor,,,,,2026-06-05,LegalPros Agency
+Jessica Jones,HR,1827,48782.65,false,2025-09-05,2025-12-08T16:53:21,jessica.jones@company.com,Specialist,8,FullTime,Premium Health,19,,,
+Joshua Gonzalez,Customer Service,1828,74414.01,true,2022-03-01,2025-12-08T16:53:21,joshua.gonzalez@company.com,Specialist,2,FullTime,Standard Health,26,,,
+Nancy Davis,Legal,1829,93969.57,true,2021-10-03,2025-12-08T16:53:21,nancy.davis@company.com,Developer,0,Contractor,,,,,2027-01-18,Elite Contractors
+Timothy Moore,Engineering,1830,58029.31,true,2023-05-26,2025-12-08T16:53:21,timothy.moore@company.com,Engineer,0,Contractor,,,,,2027-02-09,Global Staffing
+Patricia Walker,Customer Service,1831,58654.96,true,2023-07-10,2025-12-08T16:53:21,patricia.walker@company.com,Consultant,8,Contractor,,,,,2027-12-08,TechStaff Inc
+Brian Martin,IT,1832,81282.45,true,2019-09-06,2025-12-08T16:53:21,brian.martin@company.com,Designer,0,FullTime,Premium Health,21,,,
+Brian Smith,Customer Service,1833,77823.6,true,2020-04-14,2025-12-08T16:53:21,brian.smith@company.com,Associate,10,PartTime,,,34,21.15,,
+Christopher Martinez,Sales,1834,75872.11,true,2022-02-04,2025-12-08T16:53:21,christopher.martinez@company.com,Manager,1,Contractor,,,,,2026-03-10,Global Staffing
+Nancy Miller,Operations,1835,61650.01,true,2025-10-20,2025-12-08T16:53:21,nancy.miller@company.com,Manager,5,FullTime,Standard Health,15,,,
+George King,Sales,1836,78357.79,true,2025-06-30,2025-12-08T16:53:21,george.king@company.com,Analyst,4,PartTime,,,22,26.04,,
+John Flores,Operations,1837,44725.99,true,2021-02-22,2025-12-08T16:53:21,john.flores@company.com,Director,8,PartTime,,,19,19.53,,
+Melissa Davis,IT,1838,69575.58,true,2020-07-06,2025-12-08T16:53:21,melissa.davis@company.com,Associate,3,FullTime,Premium Health,30,,,
+Timothy Jackson,Customer Service,1839,87910.4,false,2020-01-04,2025-12-08T16:53:21,timothy.jackson@company.com,Analyst,7,PartTime,,,24,18.65,,
+Nancy Smith,Engineering,1840,48553.71,true,2023-08-19,2025-12-08T16:53:21,nancy.smith@company.com,Coordinator,8,FullTime,Standard Health,21,,,
+John Rodriguez,Marketing,1841,67228.76,false,2023-05-01,2025-12-08T16:53:21,john.rodriguez@company.com,Director,10,Contractor,,,,,2026-09-10,TechStaff Inc
+Margaret Jones,Design,1842,60843.11,true,2025-05-29,2025-12-08T16:53:21,margaret.jones@company.com,Associate,5,PartTime,,,34,27.79,,
+Deborah Thomas,HR,1843,70886.64,true,2022-08-01,2025-12-08T16:53:21,deborah.thomas@company.com,Consultant,7,Contractor,,,,,2026-05-03,Elite Contractors
+Matthew Jones,Marketing,1844,61359.93,true,2021-10-28,2025-12-08T16:53:21,matthew.jones@company.com,Associate,10,Contractor,,,,,2027-11-04,Global Staffing
+Karen Clark,Design,1845,57008.67,true,2020-01-29,2025-12-08T16:53:21,karen.clark@company.com,Analyst,4,FullTime,Premium Health,26,,,
+Christopher Taylor,Design,1846,62965.95,true,2020-05-30,2025-12-08T16:53:21,christopher.taylor@company.com,Engineer,5,PartTime,,,35,18.48,,
+Michelle Harris,Operations,1847,92951.76,false,2021-04-17,2025-12-08T16:53:21,michelle.harris@company.com,Specialist,3,Contractor,,,,,2026-04-22,TechStaff Inc
+Charles Garcia,HR,1848,46374.7,true,2022-08-01,2025-12-08T16:53:21,charles.garcia@company.com,Analyst,4,Contractor,,,,,2026-07-09,TechStaff Inc
+Elizabeth Walker,Operations,1849,60286.42,true,2020-03-25,2025-12-08T16:53:21,elizabeth.walker@company.com,Analyst,9,Contractor,,,,,2026-08-12,LegalPros Agency
+Joseph Flores,Sales,1850,54016.85,true,2023-10-08,2025-12-08T16:53:21,joseph.flores@company.com,Consultant,6,PartTime,,,25,29.67,,
+Jessica Flores,Legal,1851,67338.69,true,2019-02-08,2025-12-08T16:53:21,jessica.flores@company.com,Analyst,7,PartTime,,,33,29.53,,
+William Martinez,Engineering,1852,94966.83,true,2019-05-12,2025-12-08T16:53:21,william.martinez@company.com,Designer,0,FullTime,Basic Health,26,,,
+Kevin Anderson,HR,1853,57401.21,true,2022-10-24,2025-12-08T16:53:21,kevin.anderson@company.com,Associate,3,PartTime,,,21,19.4,,
+Steven Garcia,Finance,1854,66915.65,false,2020-07-20,2025-12-08T16:53:21,steven.garcia@company.com,Engineer,5,PartTime,,,22,24.36,,
+Deborah Davis,Customer Service,1855,70317.5,false,2021-10-07,2025-12-08T16:53:21,deborah.davis@company.com,Designer,3,PartTime,,,35,21.89,,
+Robert Moore,Customer Service,1856,89006.4,true,2023-03-08,2025-12-08T16:53:21,robert.moore@company.com,Associate,8,FullTime,Standard Health,17,,,
+Richard Wilson,IT,1857,72229.41,true,2025-06-06,2025-12-08T16:53:21,richard.wilson@company.com,Director,3,Contractor,,,,,2026-04-04,Global Staffing
+Jessica Wilson,Design,1858,80157.47,true,2021-05-24,2025-12-08T16:53:21,jessica.wilson@company.com,Consultant,3,Contractor,,,,,2027-05-08,LegalPros Agency
+Margaret Davis,Operations,1859,60577.58,true,2019-12-22,2025-12-08T16:53:21,margaret.davis@company.com,Developer,4,Contractor,,,,,2027-11-20,LegalPros Agency
+Joseph Hernandez,Customer Service,1860,41593.43,true,2022-06-08,2025-12-08T16:53:21,joseph.hernandez@company.com,Engineer,7,Contractor,,,,,2027-02-28,TechStaff Inc
+Jennifer Flores,Finance,1861,88808.42,true,2025-02-21,2025-12-08T16:53:21,jennifer.flores@company.com,Consultant,8,FullTime,Premium Health,23,,,
+Patricia Miller,Finance,1862,50064.32,false,2021-10-13,2025-12-08T16:53:21,patricia.miller@company.com,Developer,9,PartTime,,,16,25.5,,
+Mary Martinez,Customer Service,1863,83189.27,false,2023-08-03,2025-12-08T16:53:21,mary.martinez@company.com,Manager,6,FullTime,Basic Health,30,,,
+Charles Taylor,Marketing,1864,49409.04,true,2022-05-04,2025-12-08T16:53:21,charles.taylor@company.com,Developer,0,Contractor,,,,,2026-08-02,Global Staffing
+Christopher Thompson,IT,1865,68890.49,true,2025-05-11,2025-12-08T16:53:21,christopher.thompson@company.com,Coordinator,1,PartTime,,,30,19.26,,
+Melissa Taylor,Operations,1866,80886.49,true,2025-10-22,2025-12-08T16:53:21,melissa.taylor@company.com,Coordinator,1,PartTime,,,32,26.95,,
+Daniel Wilson,HR,1867,86114.99,true,2024-04-14,2025-12-08T16:53:21,daniel.wilson@company.com,Analyst,0,PartTime,,,30,18.4,,
+John Harris,Sales,1868,56081.87,true,2024-01-15,2025-12-08T16:53:21,john.harris@company.com,Engineer,1,FullTime,Basic Health,30,,,
+Deborah Harris,Legal,1869,54757.35,false,2025-04-24,2025-12-08T16:53:21,deborah.harris@company.com,Manager,10,FullTime,Standard Health,25,,,
+Kevin Robinson,Design,1870,41672.27,true,2021-03-21,2025-12-08T16:53:21,kevin.robinson@company.com,Developer,7,PartTime,,,31,29.88,,
+Steven Thompson,Finance,1871,40522.78,true,2020-08-30,2025-12-08T16:53:21,steven.thompson@company.com,Director,7,Contractor,,,,,2027-03-24,LegalPros Agency
+Thomas Wilson,Customer Service,1872,69919.62,true,2019-10-07,2025-12-08T16:53:21,thomas.wilson@company.com,Consultant,6,Contractor,,,,,2027-04-01,TechStaff Inc
+Brian Ramirez,Marketing,1873,77246.73,true,2020-01-13,2025-12-08T16:53:21,brian.ramirez@company.com,Associate,2,FullTime,Basic Health,19,,,
+Brian Lopez,HR,1874,65814.98,true,2022-01-05,2025-12-08T16:53:21,brian.lopez@company.com,Manager,7,PartTime,,,25,26.1,,
+Sandra Taylor,Finance,1875,59349.18,true,2021-01-18,2025-12-08T16:53:21,sandra.taylor@company.com,Engineer,2,Contractor,,,,,2026-08-12,TechStaff Inc
+Donna Lewis,HR,1876,94807.44,false,2019-09-19,2025-12-08T16:53:21,donna.lewis@company.com,Specialist,2,Contractor,,,,,2027-06-01,Elite Contractors
+Robert Allen,Marketing,1877,90401.44,false,2022-02-13,2025-12-08T16:53:21,robert.allen@company.com,Associate,1,PartTime,,,22,28.28,,
+Richard Flores,Finance,1878,67234.32,true,2019-06-17,2025-12-08T16:53:21,richard.flores@company.com,Associate,2,FullTime,Basic Health,25,,,
+Sarah King,Operations,1879,56492.6,true,2025-08-14,2025-12-08T16:53:21,sarah.king@company.com,Director,4,FullTime,Basic Health,19,,,
+Daniel Young,Operations,1880,70211.19,true,2022-07-09,2025-12-08T16:53:21,daniel.young@company.com,Manager,1,FullTime,Basic Health,17,,,
+David Walker,Marketing,1881,51284.04,true,2025-02-17,2025-12-08T16:53:21,david.walker@company.com,Specialist,10,FullTime,Basic Health,20,,,
+Thomas Sanchez,Operations,1882,94122.49,true,2024-12-27,2025-12-08T16:53:21,thomas.sanchez@company.com,Consultant,7,FullTime,Basic Health,16,,,
+Lisa Davis,IT,1883,81826.06,false,2021-02-27,2025-12-08T16:53:21,lisa.davis@company.com,Director,2,FullTime,Basic Health,30,,,
+Steven Davis,HR,1884,62241.08,true,2022-02-19,2025-12-08T16:53:21,steven.davis@company.com,Developer,4,FullTime,Basic Health,22,,,
+Mary Torres,Design,1885,94789.44,true,2024-03-22,2025-12-08T16:53:21,mary.torres@company.com,Developer,10,PartTime,,,30,20.87,,
+Kimberly Ramirez,IT,1886,47190.31,true,2023-03-16,2025-12-08T16:53:21,kimberly.ramirez@company.com,Specialist,4,PartTime,,,20,21.86,,
+Andrew Harris,Customer Service,1887,67620.39,true,2019-01-19,2025-12-08T16:53:21,andrew.harris@company.com,Engineer,0,Contractor,,,,,2026-05-22,TechStaff Inc
+John Brown,Operations,1888,86842.96,true,2019-09-28,2025-12-08T16:53:21,john.brown@company.com,Manager,8,PartTime,,,32,27.76,,
+Dorothy Brown,Customer Service,1889,41415.01,true,2024-11-22,2025-12-08T16:53:21,dorothy.brown@company.com,Developer,9,FullTime,Premium Health,19,,,
+Amanda Harris,Legal,1890,57749.7,false,2024-02-08,2025-12-08T16:53:21,amanda.harris@company.com,Engineer,7,FullTime,Premium Health,26,,,
+Charles Garcia,Design,1891,77835.7,true,2019-03-26,2025-12-08T16:53:21,charles.garcia@company.com,Manager,8,Contractor,,,,,2027-06-17,Elite Contractors
+Barbara Walker,Customer Service,1892,77311.65,true,2024-04-25,2025-12-08T16:53:21,barbara.walker@company.com,Director,3,Contractor,,,,,2026-03-08,TechStaff Inc
+Melissa Perez,Finance,1893,55804.86,false,2020-03-08,2025-12-08T16:53:21,melissa.perez@company.com,Manager,0,FullTime,Basic Health,28,,,
+Charles Nguyen,Legal,1894,76541.33,true,2022-12-17,2025-12-08T16:53:21,charles.nguyen@company.com,Coordinator,2,Contractor,,,,,2026-11-29,Global Staffing
+Nancy Lopez,Operations,1895,67676.04,false,2020-10-15,2025-12-08T16:53:21,nancy.lopez@company.com,Analyst,8,FullTime,Standard Health,28,,,
+Betty Robinson,IT,1896,49250.38,false,2022-09-21,2025-12-08T16:53:21,betty.robinson@company.com,Engineer,5,PartTime,,,25,25.59,,
+Michelle Lopez,Operations,1897,40110.55,true,2023-12-23,2025-12-08T16:53:21,michelle.lopez@company.com,Specialist,2,Contractor,,,,,2026-03-29,Elite Contractors
+Sandra Torres,HR,1898,76341.29,true,2023-02-04,2025-12-08T16:53:21,sandra.torres@company.com,Specialist,10,FullTime,Premium Health,21,,,
+Donna Wright,Customer Service,1899,42368.59,true,2019-01-22,2025-12-08T16:53:21,donna.wright@company.com,Specialist,5,FullTime,Basic Health,20,,,
+Melissa Johnson,HR,1900,80424.82,true,2021-08-11,2025-12-08T16:53:21,melissa.johnson@company.com,Developer,1,PartTime,,,17,25.49,,
+Paul White,Design,1901,68657.01,true,2020-05-03,2025-12-08T16:53:21,paul.white@company.com,Engineer,9,Contractor,,,,,2027-03-11,Elite Contractors
+Timothy Gonzalez,Sales,1902,80579.19,true,2023-01-07,2025-12-08T16:53:21,timothy.gonzalez@company.com,Associate,9,PartTime,,,20,27.13,,
+Margaret Taylor,Operations,1903,62795.4,true,2022-08-05,2025-12-08T16:53:21,margaret.taylor@company.com,Manager,10,FullTime,Basic Health,28,,,
+Daniel Smith,IT,1904,49426.31,true,2023-11-24,2025-12-08T16:53:21,daniel.smith@company.com,Coordinator,5,Contractor,,,,,2027-03-08,Elite Contractors
+Donna Moore,Design,1905,91976.68,true,2021-12-18,2025-12-08T16:53:21,donna.moore@company.com,Coordinator,0,FullTime,Premium Health,19,,,
+Donna Thompson,Customer Service,1906,93485.3,false,2019-04-04,2025-12-08T16:53:21,donna.thompson@company.com,Specialist,8,PartTime,,,34,19.44,,
+Michael Davis,Customer Service,1907,73315.58,true,2022-05-15,2025-12-08T16:53:21,michael.davis@company.com,Coordinator,9,PartTime,,,21,22.26,,
+William Robinson,IT,1908,85982.79,false,2024-12-07,2025-12-08T16:53:21,william.robinson@company.com,Designer,8,FullTime,Basic Health,19,,,
+Donna Sanchez,HR,1909,88127.37,true,2019-12-28,2025-12-08T16:53:21,donna.sanchez@company.com,Designer,6,PartTime,,,27,19.48,,
+Steven Taylor,Design,1910,41206.74,true,2022-11-11,2025-12-08T16:53:21,steven.taylor@company.com,Associate,6,Contractor,,,,,2026-10-24,Global Staffing
+John Robinson,Engineering,1911,67095.94,true,2021-08-31,2025-12-08T16:53:21,john.robinson@company.com,Associate,9,FullTime,Basic Health,25,,,
+Richard Flores,Design,1912,91306.89,false,2020-06-09,2025-12-08T16:53:21,richard.flores@company.com,Designer,2,PartTime,,,18,27.01,,
+Steven King,Operations,1913,60933.66,true,2019-09-01,2025-12-08T16:53:21,steven.king@company.com,Designer,3,PartTime,,,16,28.54,,
+Linda Wright,Design,1914,47251.9,true,2025-06-23,2025-12-08T16:53:21,linda.wright@company.com,Analyst,6,FullTime,Basic Health,16,,,
+Emily Garcia,Customer Service,1915,51241.7,true,2020-01-17,2025-12-08T16:53:21,emily.garcia@company.com,Director,2,PartTime,,,16,28.47,,
+John Hill,Engineering,1916,40417.97,true,2021-05-17,2025-12-08T16:53:21,john.hill@company.com,Designer,7,FullTime,Premium Health,25,,,
+Jennifer Smith,Legal,1917,67087.06,false,2020-04-18,2025-12-08T16:53:21,jennifer.smith@company.com,Designer,6,FullTime,Basic Health,19,,,
+Patricia White,HR,1918,70015.03,true,2022-10-21,2025-12-08T16:53:21,patricia.white@company.com,Analyst,9,PartTime,,,28,19.89,,
+Daniel Miller,Engineering,1919,46829.48,false,2025-03-18,2025-12-08T16:53:21,daniel.miller@company.com,Developer,10,Contractor,,,,,2027-05-31,Global Staffing
+Nancy Martinez,IT,1920,73587.17,true,2022-06-15,2025-12-08T16:53:21,nancy.martinez@company.com,Analyst,2,FullTime,Premium Health,19,,,
+Kimberly Martinez,HR,1921,86912.82,true,2021-10-19,2025-12-08T16:53:21,kimberly.martinez@company.com,Manager,2,FullTime,Premium Health,29,,,
+Robert Allen,Operations,1922,51522.48,true,2020-12-15,2025-12-08T16:53:21,robert.allen@company.com,Coordinator,7,FullTime,Standard Health,30,,,
+Patricia Rodriguez,Design,1923,63715.51,true,2022-03-25,2025-12-08T16:53:21,patricia.rodriguez@company.com,Consultant,3,Contractor,,,,,2027-03-03,Global Staffing
+Michael Johnson,Operations,1924,41946.34,true,2024-12-06,2025-12-08T16:53:21,michael.johnson@company.com,Analyst,0,Contractor,,,,,2026-10-27,Global Staffing
+John Perez,Legal,1925,50704.12,true,2019-02-27,2025-12-08T16:53:21,john.perez@company.com,Specialist,9,Contractor,,,,,2026-12-12,Elite Contractors
+Robert Torres,Sales,1926,54732.15,false,2025-07-21,2025-12-08T16:53:21,robert.torres@company.com,Consultant,4,Contractor,,,,,2026-10-06,LegalPros Agency
+James Young,Customer Service,1927,40911.16,true,2020-04-13,2025-12-08T16:53:21,james.young@company.com,Director,1,PartTime,,,32,19.35,,
+Charles Wilson,IT,1928,87346.06,false,2021-07-07,2025-12-08T16:53:21,charles.wilson@company.com,Specialist,1,PartTime,,,28,19.94,,
+Jessica Walker,IT,1929,40535.24,true,2022-11-21,2025-12-08T16:53:21,jessica.walker@company.com,Coordinator,6,FullTime,Premium Health,27,,,
+Karen Moore,Finance,1930,70414.47,true,2019-07-14,2025-12-08T16:53:21,karen.moore@company.com,Manager,3,FullTime,Premium Health,17,,,
+Thomas Hernandez,Sales,1931,81041.88,false,2019-03-02,2025-12-08T16:53:21,thomas.hernandez@company.com,Director,4,Contractor,,,,,2026-05-22,Global Staffing
+Kevin Flores,Finance,1932,73247.62,true,2020-07-02,2025-12-08T16:53:21,kevin.flores@company.com,Manager,1,PartTime,,,16,21.25,,
+Margaret Torres,IT,1933,60243.57,true,2021-09-01,2025-12-08T16:53:21,margaret.torres@company.com,Director,1,Contractor,,,,,2027-11-17,Global Staffing
+Susan Harris,Engineering,1934,62777.66,true,2021-08-27,2025-12-08T16:53:21,susan.harris@company.com,Coordinator,7,FullTime,Premium Health,20,,,
+Richard Rodriguez,Engineering,1935,76182.65,true,2025-03-11,2025-12-08T16:53:21,richard.rodriguez@company.com,Analyst,6,PartTime,,,32,23.96,,
+Elizabeth Martin,Sales,1936,92922.38,true,2021-09-29,2025-12-08T16:53:21,elizabeth.martin@company.com,Developer,3,Contractor,,,,,2026-09-24,LegalPros Agency
+Kenneth Scott,Customer Service,1937,76710.9,true,2021-11-20,2025-12-08T16:53:21,kenneth.scott@company.com,Developer,6,PartTime,,,30,18.57,,
+Timothy Williams,IT,1938,87007.42,true,2025-07-02,2025-12-08T16:53:21,timothy.williams@company.com,Engineer,1,Contractor,,,,,2027-10-12,TechStaff Inc
+Mark Harris,Marketing,1939,50647.21,true,2025-03-31,2025-12-08T16:53:21,mark.harris@company.com,Director,3,FullTime,Premium Health,21,,,
+James Jackson,Customer Service,1940,91618.35,true,2021-02-01,2025-12-08T16:53:21,james.jackson@company.com,Engineer,3,Contractor,,,,,2027-05-10,Elite Contractors
+Christopher Ramirez,Legal,1941,70521.79,true,2020-02-10,2025-12-08T16:53:21,christopher.ramirez@company.com,Designer,1,FullTime,Basic Health,17,,,
+Melissa King,HR,1942,84438.02,true,2025-10-22,2025-12-08T16:53:21,melissa.king@company.com,Designer,1,PartTime,,,34,21.33,,
+Paul Martinez,Engineering,1943,83213.59,true,2022-10-12,2025-12-08T16:53:21,paul.martinez@company.com,Specialist,7,Contractor,,,,,2027-03-24,LegalPros Agency
+Barbara Walker,Legal,1944,53216.0,true,2022-11-16,2025-12-08T16:53:21,barbara.walker@company.com,Developer,9,PartTime,,,15,21.33,,
+Dorothy Jones,Customer Service,1945,45001.35,true,2022-11-27,2025-12-08T16:53:21,dorothy.jones@company.com,Engineer,6,PartTime,,,21,19.43,,
+Mary Taylor,Marketing,1946,86194.18,true,2019-12-09,2025-12-08T16:53:21,mary.taylor@company.com,Specialist,10,Contractor,,,,,2027-11-25,Global Staffing
+William Lee,Legal,1947,47440.65,false,2023-10-16,2025-12-08T16:53:21,william.lee@company.com,Associate,5,Contractor,,,,,2027-03-18,Global Staffing
+Linda Anderson,IT,1948,47130.1,false,2020-02-26,2025-12-08T16:53:21,linda.anderson@company.com,Designer,3,Contractor,,,,,2027-03-10,LegalPros Agency
+Donald Jackson,IT,1949,57385.39,true,2019-05-08,2025-12-08T16:53:21,donald.jackson@company.com,Engineer,1,FullTime,Premium Health,15,,,
+Richard Thompson,Marketing,1950,90181.95,true,2024-01-12,2025-12-08T16:53:21,richard.thompson@company.com,Coordinator,7,Contractor,,,,,2027-08-10,Elite Contractors
+Jessica Hill,IT,1951,86644.5,true,2023-03-21,2025-12-08T16:53:21,jessica.hill@company.com,Consultant,1,Contractor,,,,,2026-06-05,LegalPros Agency
+David Clark,Marketing,1952,93062.94,true,2023-12-20,2025-12-08T16:53:21,david.clark@company.com,Consultant,6,FullTime,Premium Health,16,,,
+Steven Smith,IT,1953,66621.62,true,2019-12-09,2025-12-08T16:53:21,steven.smith@company.com,Designer,0,Contractor,,,,,2027-05-30,Elite Contractors
+Paul Wilson,Operations,1954,42340.25,true,2025-08-19,2025-12-08T16:53:21,paul.wilson@company.com,Specialist,1,Contractor,,,,,2027-08-30,TechStaff Inc
+David Harris,HR,1955,87225.12,true,2024-03-24,2025-12-08T16:53:21,david.harris@company.com,Designer,9,PartTime,,,21,19.29,,
+Betty Davis,Customer Service,1956,65184.29,true,2022-04-07,2025-12-08T16:53:21,betty.davis@company.com,Consultant,4,FullTime,Standard Health,20,,,
+Michelle Moore,Engineering,1957,40782.74,true,2021-11-27,2025-12-08T16:53:21,michelle.moore@company.com,Engineer,1,Contractor,,,,,2027-07-07,TechStaff Inc
+Matthew King,Sales,1958,66528.78,true,2019-06-23,2025-12-08T16:53:21,matthew.king@company.com,Consultant,5,FullTime,Standard Health,25,,,
+Matthew Taylor,Marketing,1959,72345.01,true,2023-05-25,2025-12-08T16:53:21,matthew.taylor@company.com,Manager,8,PartTime,,,27,20.62,,
+Emily Clark,Engineering,1960,73813.85,true,2021-12-02,2025-12-08T16:53:21,emily.clark@company.com,Associate,10,PartTime,,,35,18.88,,
+Elizabeth Williams,Design,1961,84769.53,true,2019-06-12,2025-12-08T16:53:21,elizabeth.williams@company.com,Associate,0,Contractor,,,,,2026-12-21,TechStaff Inc
+Donna Harris,Finance,1962,92255.34,true,2024-11-28,2025-12-08T16:53:21,donna.harris@company.com,Coordinator,3,FullTime,Standard Health,15,,,
+Patricia Smith,Engineering,1963,68687.78,true,2025-05-23,2025-12-08T16:53:21,patricia.smith@company.com,Specialist,2,PartTime,,,25,24.29,,
+Patricia Miller,HR,1964,75222.88,true,2025-08-17,2025-12-08T16:53:21,patricia.miller@company.com,Developer,1,PartTime,,,31,19.91,,
+Barbara Taylor,Finance,1965,62568.36,true,2018-12-15,2025-12-08T16:53:21,barbara.taylor@company.com,Specialist,4,PartTime,,,25,19.33,,
+Thomas Wright,HR,1966,61683.5,true,2023-03-23,2025-12-08T16:53:21,thomas.wright@company.com,Director,6,FullTime,Standard Health,16,,,
+Donna Jones,HR,1967,92044.79,true,2024-01-29,2025-12-08T16:53:21,donna.jones@company.com,Specialist,5,PartTime,,,27,21.65,,
+John Johnson,Customer Service,1968,90179.66,true,2024-02-17,2025-12-08T16:53:21,john.johnson@company.com,Consultant,1,Contractor,,,,,2027-01-02,Global Staffing
+Steven Davis,Finance,1969,53595.77,true,2024-03-02,2025-12-08T16:53:21,steven.davis@company.com,Director,4,FullTime,Standard Health,19,,,
+Thomas Clark,Customer Service,1970,44603.02,false,2021-06-12,2025-12-08T16:53:21,thomas.clark@company.com,Consultant,1,FullTime,Premium Health,23,,,
+Sarah Walker,Customer Service,1971,67808.45,true,2019-12-11,2025-12-08T16:53:21,sarah.walker@company.com,Director,7,PartTime,,,29,22.61,,
+Donna Lopez,Marketing,1972,46814.49,false,2020-01-26,2025-12-08T16:53:21,donna.lopez@company.com,Coordinator,4,FullTime,Premium Health,19,,,
+Mary Garcia,IT,1973,57388.83,true,2020-08-26,2025-12-08T16:53:21,mary.garcia@company.com,Analyst,9,Contractor,,,,,2026-07-07,LegalPros Agency
+George Nguyen,Legal,1974,78253.01,true,2024-10-14,2025-12-08T16:53:21,george.nguyen@company.com,Coordinator,10,Contractor,,,,,2027-09-03,TechStaff Inc
+Sarah Moore,Customer Service,1975,42196.55,false,2020-08-12,2025-12-08T16:53:21,sarah.moore@company.com,Designer,6,PartTime,,,26,25.67,,
+Elizabeth King,Design,1976,59836.41,true,2022-02-11,2025-12-08T16:53:21,elizabeth.king@company.com,Engineer,0,FullTime,Standard Health,24,,,
+Betty Hernandez,Legal,1977,62967.55,true,2024-05-19,2025-12-08T16:53:21,betty.hernandez@company.com,Specialist,0,PartTime,,,20,25.78,,
+William Ramirez,HR,1978,45523.5,false,2021-12-13,2025-12-08T16:53:21,william.ramirez@company.com,Manager,10,PartTime,,,24,21.89,,
+Michael Young,Marketing,1979,50907.86,true,2023-03-06,2025-12-08T16:53:21,michael.young@company.com,Analyst,7,Contractor,,,,,2027-05-26,Elite Contractors
+Barbara Miller,Engineering,1980,57540.25,true,2023-04-23,2025-12-08T16:53:21,barbara.miller@company.com,Developer,10,Contractor,,,,,2027-09-28,Global Staffing
+Donald Gonzalez,Engineering,1981,77887.92,false,2021-12-10,2025-12-08T16:53:21,donald.gonzalez@company.com,Developer,6,PartTime,,,16,25.42,,
+Joseph Lee,IT,1982,79945.75,true,2021-12-17,2025-12-08T16:53:21,joseph.lee@company.com,Engineer,6,FullTime,Basic Health,24,,,
+George King,Sales,1983,69454.16,false,2020-07-30,2025-12-08T16:53:21,george.king@company.com,Developer,8,Contractor,,,,,2027-10-31,Global Staffing
+Timothy Thompson,HR,1984,54942.79,false,2025-04-14,2025-12-08T16:53:21,timothy.thompson@company.com,Associate,1,PartTime,,,25,22.14,,
+Sandra Johnson,HR,1985,70494.05,true,2022-01-01,2025-12-08T16:53:21,sandra.johnson@company.com,Director,6,FullTime,Standard Health,26,,,
+Matthew Wright,Customer Service,1986,89484.06,true,2020-04-30,2025-12-08T16:53:21,matthew.wright@company.com,Analyst,8,PartTime,,,19,19.79,,
+Joseph King,IT,1987,54196.47,true,2022-09-21,2025-12-08T16:53:21,joseph.king@company.com,Specialist,9,Contractor,,,,,2026-10-19,LegalPros Agency
+Brian Gonzalez,Engineering,1988,51106.6,true,2024-07-08,2025-12-08T16:53:21,brian.gonzalez@company.com,Developer,7,FullTime,Standard Health,25,,,
+Nancy King,Operations,1989,68091.93,true,2024-01-22,2025-12-08T16:53:21,nancy.king@company.com,Director,8,Contractor,,,,,2027-07-03,TechStaff Inc
+Richard Jones,Engineering,1990,90972.9,true,2020-01-26,2025-12-08T16:53:21,richard.jones@company.com,Manager,4,PartTime,,,30,26.03,,
+James Hill,HR,1991,64243.13,true,2020-02-23,2025-12-08T16:53:21,james.hill@company.com,Specialist,0,FullTime,Premium Health,19,,,
+Lisa Martinez,Finance,1992,47035.59,true,2025-02-24,2025-12-08T16:53:21,lisa.martinez@company.com,Manager,3,Contractor,,,,,2027-11-16,Global Staffing
+Barbara Martinez,Operations,1993,76819.11,false,2023-09-01,2025-12-08T16:53:21,barbara.martinez@company.com,Engineer,5,FullTime,Basic Health,28,,,
+Michelle Martin,IT,1994,90672.87,false,2021-03-18,2025-12-08T16:53:21,michelle.martin@company.com,Designer,2,PartTime,,,29,19.0,,
+David Garcia,IT,1995,62464.48,true,2023-04-04,2025-12-08T16:53:21,david.garcia@company.com,Designer,0,PartTime,,,25,22.42,,
+Donald Gonzalez,HR,1996,58419.61,true,2020-10-08,2025-12-08T16:53:21,donald.gonzalez@company.com,Specialist,3,FullTime,Standard Health,19,,,
+Amanda Hill,Customer Service,1997,79087.46,true,2019-08-30,2025-12-08T16:53:21,amanda.hill@company.com,Specialist,2,Contractor,,,,,2027-11-24,LegalPros Agency
+Richard Clark,Finance,1998,86206.92,true,2022-01-03,2025-12-08T16:53:21,richard.clark@company.com,Specialist,4,Contractor,,,,,2026-04-16,Global Staffing
+Daniel Anderson,Sales,1999,47235.53,true,2020-01-17,2025-12-08T16:53:21,daniel.anderson@company.com,Coordinator,8,Contractor,,,,,2027-11-16,LegalPros Agency
+William Wilson,Marketing,2000,74411.62,true,2021-01-31,2025-12-08T16:53:21,william.wilson@company.com,Specialist,2,PartTime,,,25,19.91,,
